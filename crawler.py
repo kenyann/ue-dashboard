@@ -51,9 +51,9 @@ for row in rows[1:]:
 
 link_col = [["Xem điểm", "Lịch học", "Thông tin", "Lịch thi", "Học phí"]]
 
-df = pd.DataFrame(data=data, columns=column)
-df2 = df[["STT", "Mã sinh viên", "Họ lót", "Tên", "Ngày sinh"]]
-df_link = pd.DataFrame(data=link, columns=link_col)
+# df = pd.DataFrame(data=data, columns=column)
+# df2 = df[["STT", "Mã sinh viên", "Họ lót", "Tên", "Ngày sinh"]]
+# df_link = pd.DataFrame(data=link, columns=link_col)
 
-dt = pd.concat([df2, df_link], axis=1)
-dt.to_csv("/home/ken/Work/ue-dashboard/data_2.csv", index=False)
+# dt = pd.concat([df2, df_link], axis=1)
+# dt.to_csv("/home/ken/Work/ue-dashboard/data_2.csv", index=False)
