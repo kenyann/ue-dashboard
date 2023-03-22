@@ -27,29 +27,41 @@ input_password.send_keys('minhlt_TCHC')
 
 driver.find_element(By.ID, 'ContentPlaceHolder1_ctl00_ctl00_btLogin').click()
 
-select = Select(driver.find_element(
-    By.ID, 'ContentPlaceHolder1_ctl00_ctl00_ctl00_ddlGraduateLevel'))
-select.select_by_visible_text('Đại học')
+driver.get('https://online.hcmue.edu.vn/Portlets/Uis_Myspace/Professor/Marks.aspx?StudentID=48.01.402.009')
 
-select_class = Select(driver.find_element(
-    By.ID, 'ContentPlaceHolder1_ctl00_ctl00_ctl00_ddlClass'))
-select_class.select_by_visible_text('Công nghệ thông tin A')
+table_id = driver.find_element(By.ID, 'tbSource')
+sub_table_id = table_id.find_elements(By.TAG_NAME, 'table')
+for sub in sub_table_id[1:]:
+    print(sub.text)
+# rows = table_id.find_elements(By.TAG_NAME, 'tr')
+# for row in rows[2:]:
+# print(row.text)
+# print('---------------')
 
-table_id = driver.find_element(
-    By.ID, 'ContentPlaceHolder1_ctl00_ctl00_ctl00_grvListStudent')
 
-rows = table_id.find_elements(By.TAG_NAME, 'tr')
-data = []
-link = []
-column = [["STT", "Mã sinh viên", "Họ lót", "Tên", "Ngày sinh",
-           "Xem điểm", "Lịch học", "Thông tin", "Lịch thi", "Học phí"]]
-for row in rows[1:]:
-    cols = row.find_elements(By.TAG_NAME, "td")
-    data.append([col.text for col in cols])
-    links = row.find_elements(By.TAG_NAME, "a")
-    link.append([link.get_attribute("href") for link in links])
+# select = Select(driver.find_element(
+#     By.ID, 'ContentPlaceHolder1_ctl00_ctl00_ctl00_ddlGraduateLevel'))
+# select.select_by_visible_text('Đại học')
 
-link_col = [["Xem điểm", "Lịch học", "Thông tin", "Lịch thi", "Học phí"]]
+# select_class = Select(driver.find_element(
+#     By.ID, 'ContentPlaceHolder1_ctl00_ctl00_ctl00_ddlClass'))
+# select_class.select_by_visible_text('Công nghệ thông tin A')
+
+# table_id = driver.find_element(
+#     By.ID, 'ContentPlaceHolder1_ctl00_ctl00_ctl00_grvListStudent')
+
+# rows = table_id.find_elements(By.TAG_NAME, 'tr')
+# data = []
+# link = []
+# column = [["STT", "Mã sinh viên", "Họ lót", "Tên", "Ngày sinh",
+#            "Xem điểm", "Lịch học", "Thông tin", "Lịch thi", "Học phí"]]
+# for row in rows[1:]:
+#     cols = row.find_elements(By.TAG_NAME, "td")
+#     data.append([col.text for col in cols])
+#     links = row.find_elements(By.TAG_NAME, "a")
+#     link.append([link.get_attribute("href") for link in links])
+
+# link_col = [["Xem điểm", "Lịch học", "Thông tin", "Lịch thi", "Học phí"]]
 
 # df = pd.DataFrame(data=data, columns=column)
 # df2 = df[["STT", "Mã sinh viên", "Họ lót", "Tên", "Ngày sinh"]]

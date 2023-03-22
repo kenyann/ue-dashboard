@@ -4,7 +4,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import Select
 from typing import List
-from tqdm import tqdm
 import pandas as pd
 import os
 
@@ -13,7 +12,7 @@ class BasePage(object):
     def __init__(self, _base_url='https://online.hcmue.edu.vn/') -> None:
         self.options = Options()
         self.options.add_experimental_option("detach", True)
-        self.options.add_argument('--headless')
+        # self.options.add_argument('--headless')
         self.driver = webdriver.Chrome(
             options=self.options)
         self.base_url = _base_url
