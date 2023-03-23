@@ -101,8 +101,46 @@ class BasePage(object):
             return
 
 
-page = BasePage()
-page.login('minhlt_TCHC', 'minhlt_TCHC')
-options = page.get_listOptions('GraduateLevel')
-page.select_content('GraduateLevel', options[1])
-page.get_studentData()
+class MarkPage(BasePage):
+    def __init__(self, _base_url='https://online.hcmue.edu.vn/') -> None:
+        super().__init__(_base_url)
+
+    def crawlMarks(self, _mark_url):
+        self.driver.get(_mark_url)
+
+        # if not os.path.exists(f"data/{_department}"):
+        #     os.mkdir(f"data/{_department}")
+
+        # if not os.path.exists(f"data/{_department}/{_course}"):
+        #     os.mkdir((f"data/{_department}/{_course}"))
+
+        tbSource = self.driver.find_element(By.ID, 'tbSource')
+        tbodys = tbSource.find_elements(By.TAG_NAME, 'tbody')
+        data = []
+        for tbody in tbodys:
+            table = tbody.find_elements(By.TAG_NAME, 'table')
+            if len(table) == 1:
+                rows = table[0].find_elements(By.TAG_NAME, 'tr')
+                for row in rows[:-2]:
+                    cols = row.find_elements(By.TAG_NAME, 'td')
+                    data.append([col.text for col in cols])
+
+        col = ['STT',
+               'Mã học phần',
+               'Tên học phần',
+               'Tín chỉ',
+               'Loại môn học',
+               'Điểm',
+               'Điểm chữ',
+               'Kết quả',
+               'Chi tiết']
+
+        df = pd.DataFrame(data=data, columns=col)
+        df = df[df.STT != 'STT']
+
+
+# page = BasePage()
+# page.login('minhlt_TCHC', 'minhlt_TCHC')
+# options = page.get_listOptions('GraduateLevel')
+# page.select_content('GraduateLevel', options[1])
+# page.get_studentData()
