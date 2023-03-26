@@ -1,3 +1,4 @@
+import glob
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
@@ -9,10 +10,11 @@ import os
 
 
 class BasePage(object):
-    def __init__(self, _base_url='https://online.hcmue.edu.vn/') -> None:
+    def __init__(self, _base_url='https://online.hcmue.edu.vn/', headless=False) -> None:
         self.options = Options()
         self.options.add_experimental_option("detach", True)
-        # self.options.add_argument('--headless')
+        if headless == True:
+            self.options.add_argument('--headless')
         self.driver = webdriver.Chrome(
             options=self.options)
         self.base_url = _base_url
@@ -102,17 +104,11 @@ class BasePage(object):
 
 
 class MarkPage(BasePage):
-    def __init__(self, _base_url='https://online.hcmue.edu.vn/') -> None:
-        super().__init__(_base_url)
+    def __init__(self, _base_url='https://online.hcmue.edu.vn/', headless=False) -> None:
+        super().__init__(_base_url, headless)
 
-    def crawlMarks(self, _mark_url):
+    def crawlMarks(self, _mark_url, _student_id):
         self.driver.get(_mark_url)
-
-        # if not os.path.exists(f"data/{_department}"):
-        #     os.mkdir(f"data/{_department}")
-
-        # if not os.path.exists(f"data/{_department}/{_course}"):
-        #     os.mkdir((f"data/{_department}/{_course}"))
 
         tbSource = self.driver.find_element(By.ID, 'tbSource')
         tbodys = tbSource.find_elements(By.TAG_NAME, 'tbody')
@@ -138,9 +134,27 @@ class MarkPage(BasePage):
         df = pd.DataFrame(data=data, columns=col)
         df = df[df.STT != 'STT']
 
+        # save data to csv
+        df.to_csv(f'data/marks/{_student_id}.csv', index=False)
 
 # page = BasePage()
 # page.login('minhlt_TCHC', 'minhlt_TCHC')
 # options = page.get_listOptions('GraduateLevel')
 # page.select_content('GraduateLevel', options[1])
 # page.get_studentData()
+# list_info = glob.glob('data/info/*/*/*.csv')
+# print(list_info[-1])
+
+
+def getUrlFromCSV(path):
+    data = pd.read_csv(path)
+    return (data['Mã sinh viên'].tolist(), data['Xem điểm'].tolist())
+
+
+if __name__ == '__main__':
+    page = MarkPage()
+    page.login('minhlt_TCHC', 'minhlt_TCHC')
+    data = getUrlFromCSV(
+        'data/info/Khoa Tiếng Anh/Khóa 37 (2011)/Sư Phạm Anh C.csv')
+    for student_id, url in data:
+        page.crawlMarks(url, student_id)
