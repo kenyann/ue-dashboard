@@ -1,0 +1,25 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1111LITR1003, Cơ sở văn hoá Việt Nam, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 2, 1111PHYL1002, Giáo dục thể chất 1 (Điền kinh), 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 3, 1111ENGL1115, Kỹ năng đọc thương mại 1, 2, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 4, 1111ENGL1113, Kỹ năng nghe thương mại 1, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 5, 1111ENGL1114, Ký năng nói thương mại 1, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 6, 1111ENGL1116, Kỹ năng viết thương mại 1, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 7, 1111ENGL1027, Lịch sử văn học Anh, 2, Tự Chọn, 1.50, D+, ,Chi tiết
+ 8, 1111POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 2.00, C, ,Chi tiết
+ 9, 1111FREN2001," Tiếng Pháp ngoại ngữ 2, học phần 1", 3, Tự Chọn, 1.00, D, ,Chi tiết
+ 10, 1111COMP1001, Tin học căn bản, 3, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 11, 1111ENGL1137, Văn phạm thương mại, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 1, 1121MILI1001, Giáo dục quốc phòng (HP1), 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 2, 1121MILI1002, Giáo dục quốc phòng (HP2), 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 3, 1121MILI1003, Giáo dục quốc phòng (HP3), 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 4, 1121MILI1004, Giáo dục quốc phòng (HP4), 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 5, 1121PHYL1003-8, Giáo dục thể chất 2 (Thể dục), 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 6, 1121ENGL1119, Kỹ năng đọc thương mại 2, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 7, 1121ENGL1117, Kỹ năng nghe thương mại 2, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 8, 1121ENGL1118, Kỹ năng nói thương mại 2, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 9, 1121ENGL1120, Kỹ năng viết thương mại 2, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 10, 1121PSYC1005, Phương pháp nghiên cứu khoa học, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 11, 1121FREN2002," Tiếng Pháp ngoại ngữ 2, học phần 2", 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 12, 1121LITR1007, Tiếng Việt, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 13, 1121POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 2.50, C+, ,Chi tiết

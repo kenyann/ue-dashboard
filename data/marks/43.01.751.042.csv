@@ -1,0 +1,47 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1711ENGL1406, Đọc - Viết 1, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 1711PHYL2401, Giáo dục thể chất 1 (Thể dục - Điền kinh), 1, Bắt Buộc, 4.00, A, ,Chi tiết
+ 3, 1711ENGL1401, Nghe - Nói 1, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 1711POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 5, 1711PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 1, 1721MILI2402, Công tác quốc phòng và an ninh, 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 2, 1721ENGL1466, Đọc - Viết Thương mại 1, 4, Bắt Buộc, 4.00, A, ,Chi tiết
+ 3, 1721MILI2401, Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam, 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 4, 1721PHYL2403, Giáo dục Thể chất 2 - Cầu lông cơ bản, 1, Tự Chọn, 3.50, B+, ,Chi tiết
+ 5, 1721ENGL1461, Nghe - Nói Thương mại 1, 4, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 1721POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 7, 1721TTTH1001, Tin học căn bản, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 8, 1721POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 1, 1731MILI2404," Hiểu biết chung về quân, binh chủng", 1, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 2, 1731MILI2403," Quân sự chung, chiến thuật, kỹ thuật bắn súng ngắn và sử dụng lựu đạn", 4, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 1, 1811ENGL1467, Đọc - Viết Thương mại 2, 4, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 1811POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 3, 1811PHYL2412, Giáo dục Thể chất 3 - Cầu lông nâng cao, 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 4, 1811ENGL1462, Nghe - Nói Thương mại 2, 4, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 5, 1811ENGL1411, Ngôn Ngữ học 1, 3, Bắt Buộc, 1.00, D, ,Chi tiết
+ 6, 1811ENGL1473, Thuyết trình, 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 7, 1811ENGL1428, Ứng dụng CNTT trong dạy học và dịch thuật tiếng Anh, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 8, 1811ENGL1472, Văn phạm thương mại, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 1821ENGL1426, Đặc điểm hài hước trong văn học Anh, 4, Tự Chọn, 3.00, B, ,Chi tiết
+ 2, 1821ENGL1468, Đọc - Viết Thương mại 3, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 3, 1821ENGL1463, Nghe - Nói Thương mại 3, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 4, 1821ENGL1412, Ngôn ngữ học 2, 3, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 5, 1821ENGL1475, Tổng quan thương mại, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 1, 1911ENGL1469, Đọc - Viết Thương mại 4, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 1911ENGL1464, Nghe - Nói Thương mại 4, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 3, 1911ENGL1476, Quản trị học, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 1, 1921ENGL1470, Đọc - Viết Thương mại 5, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 1921ENGL1425, Giao tiếp liên văn hóa, 4, Tự Chọn, 3.50, B+, ,Chi tiết
+ 3, 1921ENGL1465, Nghe - Nói Thương mại 5, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 4, 1921ENGL1478, Nghiên cứu thương mại 1, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 5, 1921ENGL1482, Tiếp thị, 4, Tự Chọn, 4.00, A, ,Chi tiết
+ 1, 2011ENGL1484, Đạo đức kinh doanh, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 2, 2011ENGL1471, Đọc - Viết Thương mại 6, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 3, 2011ENGL1477, Kỹ năng làm việc văn phòng, 4, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 2011ENGL1479, Nghiên cứu thương mại 2, 4, Bắt Buộc, 3.00, B, ,Chi tiết
+ 5, 2011ENGL1489, Quản trị nguồn nhân lực, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 6, 2011ENGL1480, Thực tập nghề nghiệp 1, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 7, 2011ENGL1488, Thương mại quốc tế, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 8, 2011ENGL1413, Văn học Anh, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 9, 2011ENGL1414, Văn học Mỹ, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 2021ENGL1481, Thực tập nghề nghiệp 2, 6, Bắt Buộc, 3.50, B+, ,Chi tiết

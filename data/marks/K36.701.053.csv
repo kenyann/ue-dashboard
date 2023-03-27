@@ -1,0 +1,45 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1011LITR1003, Cơ sở văn hoá Việt Nam, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 2, 1011ENGL1033, Đọc 1, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 3, 1011PHYL1003, Giáo dục thể chất 2 (Thể dục), 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 4, 1011ENGL1013, Kỹ năng học tập, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 5, 1011ENGL1043, Nghe 1, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 6, 1011POLI1901, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin HP1, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 7, 1011ENGL1051, Nói 1, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 8, 1011FREN2001," Tiếng Pháp ngoại ngữ 2, học phần 1", 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 9, 1011ENGL1039, Viết 1, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 1, 1021ENGL1034, Đọc 2, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 2, 1021PHYL1002, Giáo dục thể chất 1 (Điền kinh), 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 3, 1021ENGL1044, Nghe 2, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 4, 1021POLI1902, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin HP2, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 5, 1021ENGL1052, Nói 2, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 6, 1021PSYC1005, Phương pháp nghiên cứu khoa học, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 7, 1021PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 8, 1021FREN2002," Tiếng Pháp ngoại ngữ 2, học phần 2", 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 9, 1021LITR1007, Tiếng Việt, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 10, 1021COMP1001, Tin học căn bản, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 11, 1021ENGL1040, Viết 2, 2, Tự Chọn, 1.50, D+, ,Chi tiết
+ 1, 1111ENGL1148, Biên dịch, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 2, 1111LITR1006, Dẫn luận ngôn ngữ học, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 3, 1111ENGL1035, Đọc 3, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 4, 1111POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 5, 1111PHYL1005-8, Giáo dục thể chất 3 (Bóng chuyền), 1, Tự Chọn, 3.50, B+, ,Chi tiết
+ 6, 1111ENGL1027, Lịch sử văn học Anh, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 7, 1111ENGL1045, Nghe 3, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 8, 1111ENGL1019, Ngôn ngữ học 1, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 9, 1111ENGL1053, Nói 3, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 10, 1111ENGL1058, Phiên dịch, 2, Tự Chọn, , , ,Chi tiết
+ 11, 1111PSYC1002, Tâm lý học lứa tuổi và Tâm lý học sư phạm, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 12, 1111FREN2003," Tiếng Pháp ngoại ngữ 2, học phần 3", 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 13, 1111CHIN2003," Tiếng Trung ngoại ngữ 2, học phần 3", 3, Tự Chọn, , , ,Chi tiết
+ 14, 1111ENGL1056, Văn phạm, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 15, 1111ENGL1041, Viết 3, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 1121ENGL1036, Đọc 4, 2, Tự Chọn, , , ,Chi tiết
+ 2, 1121PSYC1003, Giáo dục học đại cương, 2, Bắt Buộc, , , ,Chi tiết
+ 3, 1121ENGL1010, Lý luận và phương pháp giảng dạy Tiếng Anh 1, 2, Bắt Buộc, , , ,Chi tiết
+ 4, 1121ENGL1046, Nghe 4, 2, Tự Chọn, , , ,Chi tiết
+ 5, 1121ENGL1020, Ngôn ngữ học 2, 2, Bắt Buộc, , , ,Chi tiết
+ 6, 1121ENGL1054, Nói 4, 2, Tự Chọn, , , ,Chi tiết
+ 7, 1121FREN2004," Tiếng Pháp ngoại ngữ 2, học phần 4", 3, Tự Chọn, , , ,Chi tiết
+ 8, 1121ENGL1042, Viết 4, 2, Tự Chọn, , , ,Chi tiết
+ 1, 1221ENGL1059, Rèn luyện nghiệp vụ sư phạm, 2, Bắt Buộc, , , ,Chi tiết

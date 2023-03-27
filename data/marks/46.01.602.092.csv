@@ -1,0 +1,55 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 2011PHYL2401, Giáo dục thể chất 1 (Thể dục - Điền kinh), 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 2, 2011HIST1030, Lịch sử thế giới cổ trung đại 1, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 3, 2011HIST1301, Lịch sử Việt Nam cổ trung đại 1, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 2011HIST1008, Nhân học đại cương, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 5, 2011EDUC1400, Nhập môn nghề giáo, 1, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 6, 2011POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 7, 2011PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 8, 2011POLI2001, Triết học Mác – Lênin, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 1, 2021POLI2003, Chủ nghĩa xã hội khoa học, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 2, 2021PHYL2403, Giáo dục Thể chất 2 - Cầu lông cơ bản, 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 3, 2021POLI2002, Kinh tế chính trị học Mác - Lênin, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 4, 2021HIST1034, Lịch sử thế giới cổ trung đại 2, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 5, 2021HIST1314, Lịch sử Việt Nam cổ trung đại 2, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 6, 2021HIST2004, Lý luận sử học, 4, Bắt Buộc, 3.00, B, ,Chi tiết
+ 7, 2021HIST1205, Phương pháp nghiên cứu khoa học giáo dục Lịch sử, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 8, 2021ENGL2401, Tiếng Anh học phần I, 4, Tự Chọn, 1.50, D+, ,Chi tiết
+ 9, 2021TTTH1001, Tin học căn bản, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 1, 2111MILI2701, Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 2.50, Ð, ,Chi tiết
+ 2, 2111PHYL2412, Giáo dục Thể chất 3 - Cầu lông nâng cao, 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 3, 2111PSYC1009, Giao tiếp sư phạm, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 2111HIST1402, Lịch sử thế giới cận đại, 4, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 5, 2111HIST1400, Lịch sử Việt Nam cận đại, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 2111HIST1415, Lý luận và phương pháp dạy học lịch sử ở trường phổ thông, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 7, 2111MILI2703, Quân sự chung, 2, Bắt Buộc, 2.50, Ð, ,Chi tiết
+ 8, 2111ENGL2402, Tiếng Anh học phần II, 3, Tự Chọn, 1.50, D+, ,Chi tiết
+ 9, 2111EDUC1348, Tổ chức hoạt động giáo dục ở trường phổ thông, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 10, 2111POLI2005, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 2121MILI2702, Công tác quốc phòng và an ninh, 2, Bắt Buộc, 2.50, Ð, ,Chi tiết
+ 2, 2121EDUC1003, Giáo dục học đại cương, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 3, 2121HIST1416, Hệ thống các phương pháp và hình thức tổ chức dạy học ở trường phổ thông, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 2121POLI2004, Lịch sử Đảng cộng sản Việt Nam, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 5, 2121HIST1036, Lịch sử Đông Nam Á, 2, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 6, 2121HIST1004, Lịch sử văn minh thế giới, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 7, 2121HIST1039, Phong trào nông dân trong lịch sử trung đại Việt Nam, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 8, 2121HIST1408," Phương pháp nghiên cứu, biên soạn và giảng dạy lịch sử địa phương", 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 9, 2121PSYC1400, Tâm lý học giáo dục, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 10, 2121HIST1052, Tiến trình Lịch sử kinh tế - ngoại giao Việt Nam, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 1, 2131MILI2704, Kỹ thuật chiến đấu bộ binh và chiến thuật, 4, Bắt Buộc, 3.00, Ð, ,Chi tiết
+ 1, 2211HIST1045, Dạy học lịch sử ở trường trung học phổ thông theo khoa học giáo dục hiện đại, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 2, 2211HIST1047, Kiến thức cơ bản trong dạy học lịch sử ở trường phổ thông, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 3, 2211HIST1402, Lịch sử thế giới cận đại, 4, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 4, 2211HIST1403, Lịch sử thế giới hiện đại, 4, Bắt Buộc, 2.00, C, ,Chi tiết
+ 5, 2211HIST1401, Lịch sử Việt Nam hiện đại, 4, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 6, 2211HIST1487, Rèn luyện nghiệp vụ sư phạm thường xuyên, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 7, 2211HIST1406," Tiếp xúc văn hóa giữa Trung Quốc với Nhật Bản, Triều Tiên và Việt Nam trong lịch sử", 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 8, 2211HIST1417, Ứng dụng công nghệ thông tin trong dạy học môn Lịch sử ở trường trung học phổ thông, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 1, 2221HIST2003, Cơ sở văn hoá Việt Nam, 2, Bắt Buộc, , , ,Chi tiết
+ 2, 2221HIST1414," Kiểm tra, đánh giá kết quả học tập môn Lịch sử ở trường trung học phổ thông", 2, Tự Chọn, , , ,Chi tiết
+ 3, 2221HIST1836, Lịch sử Đông Nam Á, 3, Tự Chọn, , , ,Chi tiết
+ 4, 2221HIST1407, Lịch sử quan hệ quốc tế đại cương, 2, Bắt Buộc, , , ,Chi tiết
+ 5, 2221HIST1042, Một số vấn đề cách mạng tháng Mười Nga (1917-1921), 2, Bắt Buộc, , , ,Chi tiết
+ 6, 2221HIST1413, Phát triển chương trình môn Lịch sử trung học phổ thông, 2, Tự Chọn, , , ,Chi tiết
+ 7, 2221HIST1425, Thực tập sư phạm 1, 2, Bắt Buộc, , , ,Chi tiết
+ 8, 2221HIST1041, Vùng tự do Nam Trung bộ trong kháng chiến chống Pháp (1945-1954), 2, Bắt Buộc, , , ,Chi tiết

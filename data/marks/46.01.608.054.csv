@@ -1,0 +1,59 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 2011GEOG1007, Địa lý kinh tế - xã hội thế giới, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 2, 2011PHYL2401, Giáo dục thể chất 1 (Thể dục - Điền kinh), 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 3, 2011POLI1006, Kinh tế học đại cương, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 4, 2011HIST1031, Lịch sử thế giới cổ trung đại, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 5, 2011GEOG1001, Môi trường và phát triển bền vững, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 6, 2011HIST1008, Nhân học đại cương, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 7, 2011POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 8, 2011ENGL2401, Tiếng Anh học phần I, 4, Bắt Buộc, 3.00, B, ,Chi tiết
+ 9, 2011POLI2001, Triết học Mác – Lênin, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 1, 2021HIST1009, Chính trị học đại cương, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 2, 2021POLI2003, Chủ nghĩa xã hội khoa học, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 3, 2021HIST2003, Cơ sở văn hoá Việt Nam, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 2021MILI2702, Công tác quốc phòng và an ninh, 2, Tự Chọn, 3.00, Ð, ,Chi tiết
+ 5, 2021POLI2002, Kinh tế chính trị học Mác - Lênin, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 2021HIST1028, Lịch sử thế giới cận hiện đại 1, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 7, 2021HIST1004, Lịch sử văn minh thế giới, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 8, 2021HIST1115, Lịch sử Việt Nam cổ - trung đại, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 9, 2021HIST1064, Nhập môn quan hệ quốc tế, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 10, 2021ENGL2402, Tiếng Anh học phần II, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 2031MILI2701, Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam, 3, Tự Chọn, 3.00, Ð, ,Chi tiết
+ 1, 2111PHYL2413, Giáo dục Thể chất 3 - Aerobic nâng cao, 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 2, 2111HIST1003, Lịch sử quan hệ quốc tế, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 3, 2111HIST1029, Lịch sử thế giới cận hiện đại 2, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 4, 2111HIST1056, Lịch sử Việt Nam cận hiện đại 1, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 5, 2111HIST1097, Phương pháp nghiên cứu khoa học, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 6, 2111MILI2703, Quân sự chung, 2, Tự Chọn, 3.50, Ð, ,Chi tiết
+ 7, 2111HIST1133, Tiếng Anh chuyên ngành Quốc tế học 1 (đọc - viết), 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 8, 2111HIST1134, Tiếng Anh chuyên ngành Quốc tế học 1 (nghe - nói), 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 9, 2111ENGL2403, Tiếng Anh học phần III, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 10, 2111POLI2005, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 11, 2111HIST1063, Tư tưởng Hồ Chí Minh về ngoại giao, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 1, 2121PHYL2405, Giáo dục Thể chất 2 - Aerobic cơ bản, 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 2, 2121MILI2704, Kỹ thuật chiến đấu bộ binh và chiến thuật, 4, Tự Chọn, 4.00, Ð, ,Chi tiết
+ 3, 2121POLI2004, Lịch sử Đảng cộng sản Việt Nam, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 2121HIST1057, Lịch sử Việt Nam cận hiện đại 2, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 5, 2121HIST1099, Quan hệ kinh tế quốc tế, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 2121HIST1074, Quan hệ quốc tế ở Châu Âu từ sau chiến tranh thế giới thứ 2 đến nay, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 7, 2121HIST1072, Quan hệ quốc tế ở châu Mỹ từ sau chiến tranh thế giới 2 đến nay, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 8, 2121HIST1073, Quan hệ quốc tế ở Đông Bắc Á từ sau chiến tranh thế giới 2 đến nay, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 9, 2121HIST1071, Quan hệ quốc tế ở Đông Nam Á từ sau chiến tranh thế giới 2 đến nay, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 10, 2121HIST1139, Quan hệ quốc tế trong bối cảnh cách mạng công nghệ 4.0, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 11, 2121HIST1111, Rèn luyện nghiệp vụ, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 12, 2121HIST1132, Tiếng Anh chuyên ngành Quốc tế học 2 (đọc - viết), 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 13, 2121HIST1131, Tiếng Anh chuyên ngành Quốc tế học 2 (nghe - nói), 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 2211HIST1102, An ninh và xung đột trong quan hệ quốc tế, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 2211HIST1103, Các thể chế chính trị trên thế giới, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 3, 2211HIST1100, Công pháp quốc tế, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 4, 2211HIST1062, Lịch sử quan hệ đối ngoại của Việt Nam, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 5, 2211HIST1104, Nghiệp vụ ngoại giao và đàm phán quốc tế, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 6, 2211HIST1130, Tiếng Anh chuyên ngành Quốc tế học 3 (đọc - viết), 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 7, 2211HIST1129, Tiếng Anh chuyên ngành Quốc tế học 3 (nghe - nói), 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 8, 2211HIST1101, Tư pháp quốc tế, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 1, 2221HIST1098, Địa chiến lược và địa chính trị, 2, Bắt Buộc, , , ,Chi tiết
+ 2, 2221HIST1110, Nghiệp vụ ngoại thương, 2, Bắt Buộc, , , ,Chi tiết
+ 3, 2221HIST1108, Nghiệp vụ thư ký văn phòng – Văn bản ngoại giao, 3, Bắt Buộc, , , ,Chi tiết
+ 4, 2221HIST1109, PR – Truyền thông đại chúng, 2, Bắt Buộc, , , ,Chi tiết
+ 5, 2221HIST1138, Tiếng Anh chuyên ngành Quốc tế học 4 (đọc - viêt), 3, Bắt Buộc, , , ,Chi tiết
+ 6, 2221HIST1137, Tiếng Anh chuyên ngành Quốc tế học 4 (nghe - nói), 2, Bắt Buộc, , , ,Chi tiết

@@ -102,6 +102,9 @@ class BasePage(object):
         except:
             return
 
+    def close(self):
+        self.driver.close()
+
 
 class MarkPage(BasePage):
     def __init__(self, _base_url='https://online.hcmue.edu.vn/', headless=False) -> None:

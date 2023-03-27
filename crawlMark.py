@@ -4,28 +4,29 @@ from Class import getUrlFromCSV
 import glob
 import multiprocessing
 from multiprocessing import Pool, Process
+from tqdm import tqdm
 
 
-def job(list_stu, list_url):
-    page = MarkPage()
+def job(url, stu):
+    page = MarkPage(headless=True)
     page.login('minhlt_TCHC', 'minhlt_TCHC')
-    for stu, url in zip(list_stu, list_url):
-        page.crawlMarks(url, stu)
+    page.crawlMarks(url, stu)
+    print(f'Done {stu}')
+    page.close()
 
 
 if __name__ == '__main__':
 
     data_path = glob.glob('data/info/*/*/*.csv')
     student_list, url_list = [], []
-    for file in data_path[:10]:
+    for file in data_path:
         stu, url = getUrlFromCSV(file)
-        student_list.append(stu)
-        url_list.append(url)
+        student_list.extend(stu)
+        url_list.extend(url)
 
-    process_1 = Process(target=job, args=(
-        student_list[0][:3], url_list[0][:3]))
-    process_2 = Process(target=job, args=(
-        student_list[0][3:5], url_list[0][3:5]))
+    pool = Pool(processes=4)
+    results = pool.starmap(job, zip(url_list, student_list), chunksize=4)
 
-    process_1.start()
-    process_2.start()
+# page = MarkPage()
+# page.login('minhlt_TCHC', 'minhlt_TCHC')
+# page.close()
