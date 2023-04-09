@@ -1,0 +1,36 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, MATH1402, Đại số tuyến tính 1, 3, Bắt Buộc, 4.00, R, ,Chi tiết
+ 2, MATH1403, Giải tích hàm một biến, 4, Bắt Buộc, 4.00, R, ,Chi tiết
+ 3, 2011PHYL2401, Giáo dục thể chất 1 (Thể dục - Điền kinh), 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 4, 2011MATH1405, Hình học giải tích, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 5, 2011EDUC1400, Nhập môn nghề giáo, 1, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 3.00, R, ,Chi tiết
+ 7, 2011MATH1700, Phương pháp nghiên cứu khoa học Giáo dục môn Toán, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 8, 2011PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 9, POLI2001, Triết học Mác – Lênin, 3, Bắt Buộc, 3.00, R, ,Chi tiết
+ 1, POLI2003, Chủ nghĩa xã hội khoa học, 2, Bắt Buộc, 3.00, R, ,Chi tiết
+ 2, 2021MATH1412, Đại số đại cương 2, 2, Tự Chọn, , , ,Chi tiết
+ 3, MATH1407, Giải tích hàm nhiều biến, 4, Bắt Buộc, 3.50, R, ,Chi tiết
+ 4, 2021EDUC1003, Giáo dục học đại cương, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 5, 2021MATH1417, Hình học vi phân, 3, Bắt Buộc, , , ,Chi tiết
+ 6, MATH1702, Không gian tuyến tính, 3, Bắt Buộc, 4.00, R, ,Chi tiết
+ 7, 2021POLI2002, Kinh tế chính trị học Mác - Lênin, 2, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 8, 2021MATH1436, Phép tính vi phân trên không gian hữu hạn chiều, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 9, 2021PSYC1400, Tâm lý học giáo dục, 2, Bắt Buộc, , , ,Chi tiết
+ 10, 2021MATH1410, Tôpô đại cương, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 11, 2021MATH1418, Xác suất thống kê 2, 2, Tự Chọn, 1.00, D, ,Chi tiết
+ 1, 2111MATH1428, Đại số sơ cấp, 3, Bắt Buộc, , , ,Chi tiết
+ 2, 2111PSYC1009, Giao tiếp sư phạm, 2, Bắt Buộc, , , ,Chi tiết
+ 3, 2111MATH1411, Hình học cao cấp, 4, Bắt Buộc, 0.00, F, ,Chi tiết
+ 4, 2111MATH1424, Lý luận dạy học đại cương môn toán, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 5, POLI2005, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 3.00, R, ,Chi tiết
+ 1, MATH1413, Độ đo và tích phân, 3, Bắt Buộc, 4.00, R, ,Chi tiết
+ 2, 2121MATH1435, Giải tích hàm nâng cao, 3, Tự Chọn, , , ,Chi tiết
+ 3, POLI2004, Lịch sử Đảng cộng sản Việt Nam, 2, Bắt Buộc, 3.50, R, ,Chi tiết
+ 4, 2121MATH1427, Lý luận dạy học hình học, 2, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 1, MATH1421, Đại cương về phương pháp tính, 2, Bắt Buộc, 4.00, R, ,Chi tiết
+ 2, MATH1419, Giải tích hàm, 3, Bắt Buộc, 3.50, R, ,Chi tiết
+ 3, MATH1415, Hàm một biến phức, 3, Bắt Buộc, 4.00, R, ,Chi tiết
+ 4, MATH1420, Số luận, 3, Bắt Buộc, 4.00, R, ,Chi tiết
+ 1, MATH1414, Phương trình vi phân và phương trình đạo hàm riêng, 4, Bắt Buộc, 4.00, R, ,Chi tiết
+ 1, MATH1429, Hình học sơ cấp, 3, Bắt Buộc, 4.00, R, ,Chi tiết

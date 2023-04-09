@@ -1,0 +1,40 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 2111PHYL2401, Giáo dục thể chất 1 (Thể dục - Điền kinh), 1, Bắt Buộc, 4.00, A, ,Chi tiết
+ 2, 2111EDUC1404, Hệ thống giáo dục quốc dân Việt Nam và các nước trên thế giới, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 3, 2111EDUC1401, Logic học đại cương, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 4, 2111EDUC1700, Nhân cách và lao động của nhà giáo Việt Nam, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 5, 2111EDUC1400, Nhập môn nghề giáo, 1, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 2111POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 7, 2111PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 8, 2111TTTH1001, Tin học căn bản, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 9, 2111POLI2001, Triết học Mác – Lênin, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 1, 2121POLI2003, Chủ nghĩa xã hội khoa học, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 2121EDUC1003, Giáo dục học đại cương, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 3, 2121PHYL2405, Giáo dục Thể chất 2 - Aerobic cơ bản, 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 4, 2121POLI2002, Kinh tế chính trị học Mác - Lênin, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 5, 2121EDUC1324, Phương pháp học tập tích cực, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 6, 2121EDUC1304, Phương Pháp nghiên cứu khoa học giáo dục, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 7, 2121PSYC1400, Tâm lý học giáo dục, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 8, 2121ENGL2401, Tiếng Anh học phần I, 4, Tự Chọn, 3.00, B, ,Chi tiết
+ 9, 2121EDUC1739, Tư duy phản biện trong giáo dục, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 2211MILI2702, Công tác quốc phòng và an ninh, 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 2, 2211EDUC1326, Giáo dục kỹ năng sống, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 3, 2211PHYL2413, Giáo dục Thể chất 3 - Aerobic nâng cao, 1, Tự Chọn, 3.50, B+, ,Chi tiết
+ 4, 2211PSYC1009, Giao tiếp sư phạm, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 5, 2211EDUC1309, Khoa học quản lý giáo dục, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 6, 2211EDUC1702, Lịch sử giáo dục thế giới, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 7, 2211EDUC1332, Marketing trong giáo dục, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 8, 2211MILI2703, Quân sự chung, 2, Bắt Buộc, 3.00, Ð, ,Chi tiết
+ 9, 2211EDUC1403, Thống kê trong nghiên cứu khoa học xã hội, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 10, 2211EDUC1712, Tổ chức hoạt động dạy học, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 11, 2211EDUC1704, Tổ chức hoạt động giáo dục, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 12, 2211POLI2005, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 1, 2221EDUC1402, Cơ sở Tâm lý học của quản lý giáo dục, 2, Tự Chọn, , , ,Chi tiết
+ 2, 2221EDUC1349, Kiểm tra và đánh giá trong giáo dục, 2, Bắt Buộc, , , ,Chi tiết
+ 3, 2221PSYC1423, Kỹ năng tham vấn tâm lý cơ bản, 3, Bắt Buộc, , , ,Chi tiết
+ 4, 2221MILI2704, Kỹ thuật chiến đấu bộ binh và chiến thuật, 4, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 5, 2221EDUC1710, Lí luận dạy học Giáo dục học, 2, Bắt Buộc, , , ,Chi tiết
+ 6, 2221POLI2004, Lịch sử Đảng cộng sản Việt Nam, 2, Bắt Buộc, , , ,Chi tiết
+ 7, 2221EDUC1703, Lịch sử giáo dục Việt Nam, 2, Bắt Buộc, , , ,Chi tiết
+ 8, 2221EDUC1743, Nghiệp vụ hành chính trong trường học và cơ sở giáo dục, 2, Tự Chọn, , , ,Chi tiết
+ 9, 2221EDUC1714, Ứng dụng CNTT trong giáo dục, 2, Bắt Buộc, , , ,Chi tiết

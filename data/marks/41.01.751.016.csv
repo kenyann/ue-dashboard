@@ -11,8 +11,9 @@ STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Đi�
  5, 1521POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 3.00, B, ,Chi tiết
  6, 1521MILI1103," Quân sự chung và chiến thuật, kỹ thuật bắn súng tiểu liên AK", 4, Bắt Buộc, 4.00, Ð, ,Chi tiết
  7, 1521FLAN5301, Tiếng Nhật học phần I, 4, Tự Chọn, , , ,Chi tiết
- 8, 1521TTTH1001, Tin học căn bản, 3, Tự Chọn, 2.00, C, ,Chi tiết
- 9, 1521POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 8, FLAN4301, Tiếng Trung học phần I, 4, Tự Chọn, , M, ,Chi tiết
+ 9, 1521TTTH1001, Tin học căn bản, 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 10, 1521POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 2.00, C, ,Chi tiết
  1, 1531MILI1102," Công tác quốc phòng, an ninh", 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
  1, 1611ENGL1308, Đọc - Viết 3, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
  2, 1611POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 1.50, D+, ,Chi tiết
@@ -21,12 +22,14 @@ STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Đi�
  5, 1611ENGL1307, Nghe - Nói 3, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
  6, 1611ENGL1309, Ngôn ngữ học 1, 3, Bắt Buộc, 1.00, D, ,Chi tiết
  7, 1611PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 8, FLAN4302, Tiếng Trung học phần II, 3, Tự Chọn, , M, ,Chi tiết
  1, 1621ENGL1070, Biên dịch báo chí 1, 4, Bắt Buộc, 4.00, A, ,Chi tiết
  2, 1621ENGL1065, Biên dịch du lịch 1, 4, Bắt Buộc, 3.50, B+, ,Chi tiết
  3, 1621ENGL1409, Đọc - Viết 4, 3, Bắt Buộc, 3.00, B, ,Chi tiết
  4, 1621ENGL1404, Nghe - Nói 4, 3, Bắt Buộc, 3.00, B, ,Chi tiết
  5, 1621ENGL1412, Ngôn ngữ học 2, 3, Bắt Buộc, 0.50, F+, ,Chi tiết
  6, 1621ENGL1447, Phiên dịch báo chí 1, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 7, FLAN4303, Tiếng Trung học phần III, 3, Tự Chọn, , M, ,Chi tiết
  1, 1711ENGL1314, Biên dịch báo chí 2, 4, Bắt Buộc, 2.50, C+, ,Chi tiết
  2, 1711ENGL1426, Đặc điểm hài hước trong văn học Anh, 4, Tự Chọn, 2.50, C+, ,Chi tiết
  3, 1711ENGL1410, Đọc - Viết 5, 3, Bắt Buộc, 1.50, D+, ,Chi tiết

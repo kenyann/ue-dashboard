@@ -1,0 +1,20 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1511EDUC1302, Đại cương về khoa học quản lý, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 2, 1511EDUC1303, Giáo dục giá trị, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 3, 1511PHYL1101, Giáo dục thể chất 1 (Điền kinh + Thể dục), 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 4, 1511EDUC1301, Hệ thống giáo dục quốc dân và kế hoạch hóa phát triển giáo dục, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 5, 1511EDUC1300, Lý thuyết hệ thống và điều khiển học, 1, Tự Chọn, 2.50, C+, ,Chi tiết
+ 6, 1511POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 3.00, B, ,Chi tiết
+ 7, 1511POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 8, 1511TTTH1001, Tin học căn bản, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 1, 1521EDUC1306, Chiến lược phát triển giáo dục, 2, Tự Chọn, , , ,Chi tiết
+ 2, 1521MILI1101, Đường lối quân sự của Đảng, 3, Bắt Buộc, , , ,Chi tiết
+ 3, 1521EDUC1327, Giáo dục dân số và sức khỏe sinh sản, 2, Tự Chọn, , , ,Chi tiết
+ 4, 1521EDUC1326, Giáo dục kỹ năng sống, 2, Tự Chọn, , , ,Chi tiết
+ 5, 1521PHYL1103, Giáo dục thể chất 2 (Cầu lông), 2, Tự Chọn, 0.00, F, ,Chi tiết
+ 6, 1521EDUC1305, Lịch sử các tư tưởng giáo dục, 2, Tự Chọn, , , ,Chi tiết
+ 7, 1521EDUC1304, Phương Pháp nghiên cứu khoa học giáo dục, 2, Tự Chọn, , , ,Chi tiết
+ 8, 1521MILI1103," Quân sự chung và chiến thuật, kỹ thuật bắn súng tiểu liên AK", 4, Bắt Buộc, , , ,Chi tiết
+ 9, 1521PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, , , ,Chi tiết
+ 10, 1521FLAN1301, Tiếng Anh học phần I, 4, Tự Chọn, , , ,Chi tiết
+ 11, 1521POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, , , ,Chi tiết

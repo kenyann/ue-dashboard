@@ -10,8 +10,9 @@ STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Đi�
  3, 1821PHYL2406, Giáo dục Thể chất 2 - Bơi lội cơ bản, 1, Tự Chọn, 4.00, A, ,Chi tiết
  4, 1821ENGL1461, Nghe - Nói Thương mại 1, 4, Bắt Buộc, 3.50, B+, ,Chi tiết
  5, 1821POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
- 6, 1821TTTH1001, Tin học căn bản, 3, Bắt Buộc, 1.50, D+, ,Chi tiết
- 7, 1821POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, CHIN2401, Tiếng Trung học phần I, 4, Tự Chọn, , M, ,Chi tiết
+ 7, 1821TTTH1001, Tin học căn bản, 3, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 8, 1821POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 3.00, B, ,Chi tiết
  1, 1911ENGL1467, Đọc - Viết Thương mại 2, 4, Bắt Buộc, 3.50, B+, ,Chi tiết
  2, 1911POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 2.00, C, ,Chi tiết
  3, 1911PHYL2415, Giáo dục Thể chất 3 - Bơi lội nâng cao, 1, Tự Chọn, 4.00, A, ,Chi tiết
@@ -20,7 +21,8 @@ STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Đi�
  6, 1911ENGL1462, Nghe - Nói Thương mại 2, 4, Bắt Buộc, 3.00, B, ,Chi tiết
  7, 1911ENGL1411, Ngôn Ngữ học 1, 3, Bắt Buộc, 1.00, D, ,Chi tiết
  8, 1911MILI2403," Quân sự chung, chiến thuật, kỹ thuật bắn súng ngắn và sử dụng lựu đạn", 4, Bắt Buộc, 4.00, Ð, ,Chi tiết
- 9, 1911ENGL1472, Văn phạm thương mại, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 9, CHIN2402, Tiếng Trung học phần II, 3, Tự Chọn, , M, ,Chi tiết
+ 10, 1911ENGL1472, Văn phạm thương mại, 3, Tự Chọn, 3.00, B, ,Chi tiết
  1, 1921ENGL1426, Đặc điểm hài hước trong văn học Anh, 4, Tự Chọn, 3.00, B, ,Chi tiết
  2, 1921ENGL1468, Đọc - Viết Thương mại 3, 3, Bắt Buộc, 2.00, C, ,Chi tiết
  3, 1921PSYC1493, Kỹ năng thích ứng và giải quyết vấn đề, 2, Tự Chọn, 2.50, C+, ,Chi tiết
@@ -28,7 +30,8 @@ STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Đi�
  5, 1921ENGL1463, Nghe - Nói Thương mại 3, 3, Bắt Buộc, 3.00, B, ,Chi tiết
  6, 1921ENGL1412, Ngôn ngữ học 2, 3, Bắt Buộc, 1.00, D, ,Chi tiết
  7, 1921CHIN2401, Tiếng Trung học phần I, 4, Tự Chọn, , , ,Chi tiết
- 8, 1921ENGL1475, Tổng quan thương mại, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 8, CHIN2403, Tiếng Trung học phần III, 3, Tự Chọn, , M, ,Chi tiết
+ 9, 1921ENGL1475, Tổng quan thương mại, 3, Bắt Buộc, 3.00, B, ,Chi tiết
  1, 2011ENGL1469, Đọc - Viết Thương mại 4, 3, Bắt Buộc, 2.00, C, ,Chi tiết
  2, 2011ENGL1425, Giao tiếp liên văn hóa, 4, Tự Chọn, 4.00, A, ,Chi tiết
  3, 2011ENGL1464, Nghe - Nói Thương mại 4, 3, Bắt Buộc, 2.50, C+, ,Chi tiết

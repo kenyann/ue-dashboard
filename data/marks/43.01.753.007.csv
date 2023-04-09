@@ -1,0 +1,84 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1711MILI2402, Công tác quốc phòng và an ninh, 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 2, 1711FRAN1011, Đọc viết cơ sở, 4, Bắt Buộc, , , ,Chi tiết
+ 3, 1711MILI2401, Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam, 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 4, 1711PHYL2401, Giáo dục thể chất 1 (Thể dục - Điền kinh), 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 5, 1711FRAN1001, Nghe nói cơ sở, 4, Bắt Buộc, , , ,Chi tiết
+ 6, 1711POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 7, 1711PSYC1001, Tâm lý học đại cương, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 1, 1721FRAN1212, Đọc - Viết 1 (DL), 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 2, 1721PHYL2403, Giáo dục Thể chất 2 - Cầu lông cơ bản, 1, Tự Chọn, 3.50, B+, ,Chi tiết
+ 3, 1721FRAN1202, Nghe - Nói 1 (DL), 3, Bắt Buộc, , , ,Chi tiết
+ 4, 1721FRAN1021, Ngữ âm tiếng Pháp, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 5, 1721FRAN1023, Ngữ pháp tiếng Pháp 1, 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 6, 1721POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 7, 1721FRAN1030, Phương pháp nghiên cứu khoa học chuyên ngành tiếng Pháp, 2, Bắt Buộc, , , ,Chi tiết
+ 8, 1721ENGL2401, Tiếng Anh học phần I, 4, Tự Chọn, 0.50, F+, ,Chi tiết
+ 9, 1721POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 10, 1721FRAN1234, Văn hóa Việt Nam chuyên ngành tiếng Pháp du lịch 1, 2, Tự Chọn, 0.00, F, ,Chi tiết
+ 1, 1811FRAN1213, Đọc - Viết 2 DL, 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 2, 1811FRAN1011, Đọc viết cơ sở, 4, Bắt Buộc, 0.00, F, ,Chi tiết
+ 3, 1811POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 0.00, F, ,Chi tiết
+ 4, 1811PHYL2412, Giáo dục Thể chất 3 - Cầu lông nâng cao, 1, Tự Chọn, 3.50, B+, ,Chi tiết
+ 5, 1811FRAN1081, Lịch sử hình thành và phát triển du lịch, 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 6, 1811FRAN1001, Nghe nói cơ sở, 4, Bắt Buộc, , , ,Chi tiết
+ 7, 1811ENGL2401, Tiếng Anh học phần I, 4, Tự Chọn, 3.00, B, ,Chi tiết
+ 8, 1811FRAN1073, Tin học ứng dụng trong du lịch, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 9, 1811FRAN1022, Từ vựng tiếng Pháp, 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 1, 1821FRAN1237, Địa lý du lịch, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 2, 1821FRAN1236, Lịch sử và du lịch, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 3, 1821FRAN1074, Nghiệp vụ hướng dẫn du lịch, 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 4, 1821FRAN1242, Phương pháp nghiên cứu điều tra xã hội chuyên ngành tiếng Pháp du lịch, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 5, 1821FRAN1030, Phương pháp nghiên cứu khoa học chuyên ngành tiếng Pháp, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 6, 1821MILI2403," Quân sự chung, chiến thuật, kỹ thuật bắn súng ngắn và sử dụng lựu đạn", 4, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 7, 1821ENGL2403, Tiếng Anh học phần III, 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 8, 1821TTTH1001, Tin học căn bản, 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 1, 1911FRAN1213, Đọc - Viết 2 DL, 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 2, 1911FRAN1011, Đọc viết cơ sở, 4, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 3, 1911POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 4, 1911FRAN1081, Lịch sử hình thành và phát triển du lịch, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 5, 1911FRAN1248, Nhập môn Luật, 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 6, 1911FRAN1075, Quản trị lữ hành, 2, Tự Chọn, 0.50, F+, ,Chi tiết
+ 7, 1911FRAN1077, Quản trị nhà hàng - khách sạn, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 8, 1911FRAN1076, Thuyết minh tuyến điểm du lịch, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 9, 1911FRAN1251, Tiếng Anh du lịch 1, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 10, 1911ENGL2402, Tiếng Anh học phần II, 3, Tự Chọn, 1.50, D+, ,Chi tiết
+ 11, 1911FRAN1022, Từ vựng tiếng Pháp, 2, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 1, 1921FRAN1212, Đọc - Viết 1 (DL), 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 1921MILI2404," Hiểu biết chung về quân, binh chủng", 1, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 3, 1921FRAN1202, Nghe - Nói 1 (DL), 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 4, 1921FRAN1023, Ngữ pháp tiếng Pháp 1, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 5, 1921FRAN1247, Nhập môn Kinh tế, 2, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 6, 1921FRAN1219, Thực tập nghề nghiệp DL 1, 2, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 7, 1921FRAN1252, Tiếng Anh du lịch 2, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 8, 1921FRAN1234, Văn hóa Việt Nam chuyên ngành tiếng Pháp du lịch 1, 2, Tự Chọn, 0.50, F+, ,Chi tiết
+ 1, 2011FRAN1213, Đọc - Viết 2 DL, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 2011FRAN1215, Đọc - Viết 4 (DL), 2, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 3, 2011FRAN1203, Nghe - Nói 2 DL, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 4, 2011FRAN1074, Nghiệp vụ hướng dẫn du lịch, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 5, 2011FRAN1024, Ngữ pháp tiếng Pháp 2, 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 6, 2011FRAN1248, Nhập môn Luật, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 7, 2011FRAN1075, Quản trị lữ hành, 2, Tự Chọn, 1.00, D, ,Chi tiết
+ 8, 2011FRAN1022, Từ vựng tiếng Pháp, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 9, 2011FRAN1032, Văn hóa Pháp, 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 1, 2021LITR1433, Các tôn giáo và tín ngưỡng ở Việt Nam, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 2, 2021HIST2003, Cơ sở văn hoá Việt Nam, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 3, 2021FRAN1214, Đọc - Viết 3 DL, 2, Bắt Buộc, , , ,Chi tiết
+ 4, 2021FRAN1250, Luật du lịch, 2, Bắt Buộc, , , ,Chi tiết
+ 5, 2021FRAN1055, Lý luận dạy và học ngoại ngữ, 2, Tự Chọn, , , ,Chi tiết
+ 6, 2021FRAN1204, Nghe - Nói 3 DL, 3, Bắt Buộc, , , ,Chi tiết
+ 7, 2021FRAN1247, Nhập môn Kinh tế, 2, Bắt Buộc, , , ,Chi tiết
+ 8, 2021FRAN1219, Thực tập nghề nghiệp DL 1, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 9, 2021FRAN1032, Văn hóa Pháp, 2, Bắt Buộc, , , ,Chi tiết
+ 10, 2021FRAN1234, Văn hóa Việt Nam chuyên ngành tiếng Pháp du lịch 1, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 11, 2021FRAN1235, Văn hóa VN chuyên ngành tiếng Pháp du lịch 2, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 1, 2111LITR1436, Chiến lược trong du lịch, 2, Tự Chọn, 0.00, F, ,Chi tiết
+ 2, 2111HIST1496, Lịch sử thế giới cổ trung đại, 4, Tự Chọn, 0.00, F, ,Chi tiết
+ 3, 2111LITR1108, Lịch sử văn minh thế giới, 2, Tự Chọn, 0.00, F, ,Chi tiết
+ 4, 2111HIST1056, Lịch sử Việt Nam cận hiện đại 1, 2, Tự Chọn, , , ,Chi tiết
+ 5, 2111HIST1401, Lịch sử Việt Nam hiện đại, 4, Tự Chọn, , , ,Chi tiết
+ 6, 2111LITR1085, Marketing trong du lịch, 2, Tự Chọn, 0.00, F, ,Chi tiết
+ 7, 2111LITR1454, Ngữ pháp học tiếng Việt, 3, Tự Chọn, , , ,Chi tiết
+ 8, 2111LITR1560, Văn học hiện đại Việt Nam I (VH), 2, Tự Chọn, , , ,Chi tiết
+ 9, 2111LITR1464, Văn học phương Tây I, 3, Tự Chọn, 0.00, F, ,Chi tiết
+ 10, 2111LITR1423, Văn học trung đại Việt Nam, 2, Tự Chọn, , , ,Chi tiết

@@ -1,0 +1,54 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 2011EARC1002, Âm nhạc cơ bản, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 2011PHYL2401, Giáo dục thể chất 1 (Thể dục - Điền kinh), 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 3, 2011EARC1400, Nhập môn nghề giáo, 1, Bắt Buộc, 4.00, A, ,Chi tiết
+ 4, 2011POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 5, 2011EARC1011, Sinh lý đại cương và Sinh lý trẻ em, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 2011PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 7, 2011TTTH1001, Tin học căn bản, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 8, 2011POLI2001, Triết học Mác – Lênin, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 2021POLI2003, Chủ nghĩa xã hội khoa học, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 2, 2021MILI2702, Công tác quốc phòng và an ninh, 2, Bắt Buộc, 2.50, Ð, ,Chi tiết
+ 3, 2021EARC1022, Dinh dưỡng trẻ em, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 4, 2021MILI2701, Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 2.50, Ð, ,Chi tiết
+ 5, 2021EDUC1003, Giáo dục học đại cương, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 2021PHYL2403, Giáo dục Thể chất 2 - Cầu lông cơ bản, 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 7, 2021POLI2002, Kinh tế chính trị học Mác - Lênin, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 8, 2021EARC1001, Mỹ thuật cơ bản, 3, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 9, 2021EARC1416, Tâm lý học mầm non 1, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 10, 2021ENGL2401, Tiếng Anh học phần I, 4, Tự Chọn, 2.00, C, ,Chi tiết
+ 11, 2021EARC1304, Toán cơ sở, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 1, 2111EARC1418, Giáo dục học mầm non, 3, Bắt Buộc, , , ,Chi tiết
+ 2, 2111PHYL2412, Giáo dục Thể chất 3 - Cầu lông nâng cao, 1, Tự Chọn, 3.50, B+, ,Chi tiết
+ 3, 2111EDUC1304, Phương Pháp nghiên cứu khoa học giáo dục, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 2111MILI2703, Quân sự chung, 2, Bắt Buộc, 3.00, Ð, ,Chi tiết
+ 5, 2111EARC1417, Tâm lý học mầm non 2, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 2111ENGL2402, Tiếng Anh học phần II, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 7, 2111EARC1305, Tiếng Việt, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 8, 2111POLI2005, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 9, 2111EARC1306, Văn học thiếu nhi (mầm non), 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 2121POLI2004, Lịch sử Đảng cộng sản Việt Nam, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 2, 2121EARC1021, Lý luận dạy học mầm non, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 3, 2121EARC1010, Múa cơ bản, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 2121EARC1020, Phát triển chương trình Giáo dục Mầm non, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 5, 2121EARC1044, Rèn luyện nghiệp vụ sư phạm 1, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 6, 2121ENGL2403, Tiếng Anh học phần III, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 7, 2121EARC1019, Tổ chức hoạt động vui chơi, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 8, 2121EARC1309, Vệ sinh trẻ em, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 1, 2131DOMS1006, Kỹ thuật cắt may căn bản, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 2, 2131MILI2704, Kỹ thuật chiến đấu bộ binh và chiến thuật, 4, Bắt Buộc, 2.50, Ð, ,Chi tiết
+ 1, 2211EARC1328, Âm nhạc mầm non, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 2, 2211DOMS2001, Cắt tỉa rau củ, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 3, 2211EARC1327, Đồ chơi trẻ em, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 4, 2211EARC1418, Giáo dục học mầm non, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 5, 2211EARC1030, Phương pháp giáo dục thể chất cho trẻ mầm non, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 2211EARC1024, Phương pháp khám phá khoa học xã hội, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 7, 2211EARC1025, Phương pháp làm quen với toán cho trẻ mầm non, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 8, 2211EARC1501, Văn học dân gian (Mầm non), 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 2221EARC1322, Đánh giá trong giáo dục mầm non, 3, Bắt Buộc, , , ,Chi tiết
+ 2, 2221SPEC1002, Giáo dục hòa nhập, 2, Tự Chọn, , , ,Chi tiết
+ 3, 2221EARC1029, Phương pháp giáo dục âm nhạc cho trẻ mầm non, 3, Bắt Buộc, , , ,Chi tiết
+ 4, 2221EARC1027, Phương pháp làm quen tác phẩm văn học cho trẻ mầm non, 3, Bắt Buộc, , , ,Chi tiết
+ 5, 2221EARC1028, Phương pháp tổ chức hoạt động tạo hình cho trẻ mầm non, 3, Bắt Buộc, , , ,Chi tiết
+ 6, 2221EARC1045, Rèn luyện nghiệp vụ sư phạm 2, 2, Bắt Buộc, , , ,Chi tiết
+ 7, 2221EARC1323, Xây dựng khẩu phần ăn cho trẻ mầm non, 2, Tự Chọn, , , ,Chi tiết

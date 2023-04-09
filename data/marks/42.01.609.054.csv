@@ -1,0 +1,204 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1611EDUC1302, Đại cương về khoa học quản lý, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 1611EDUC1302, Đại cương về khoa học quản lý, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 3, 1611EDUC1404, Hệ thống giáo dục quốc dân Việt Nam và các nước trên thế giới, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 4, 1611EDUC1404, Hệ thống giáo dục quốc dân Việt Nam và các nước trên thế giới, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 5, 1611EDUC1400, Nhập môn nghề giáo, 1, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 1611EDUC1400, Nhập môn nghề giáo, 1, Tự Chọn, 3.00, B, ,Chi tiết
+ 7, 1611POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 3.00, B, ,Chi tiết
+ 8, 1611POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 3.00, B, ,Chi tiết
+ 9, 1611MILI1103," Quân sự chung và chiến thuật, kỹ thuật bắn súng tiểu liên AK", 4, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 10, 1611MILI1103," Quân sự chung và chiến thuật, kỹ thuật bắn súng tiểu liên AK", 4, Tự Chọn, 4.00, Ð, ,Chi tiết
+ 11, 1611PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 12, 1611PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 13, ENGL2401, Tiếng Anh học phần I, 4, Tự Chọn, , M, ,Chi tiết
+ 14, 1611TTTH1001, Tin học căn bản, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 15, 1611TTTH1001, Tin học căn bản, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 1, 1621MILI1102," Công tác quốc phòng, an ninh", 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 2, 1621MILI1102," Công tác quốc phòng, an ninh", 2, Tự Chọn, 4.00, Ð, ,Chi tiết
+ 3, 1621EDUC1003, Giáo dục học đại cương, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 1621EDUC1003, Giáo dục học đại cương, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 5, 1621PHYL2401, Giáo dục thể chất 1 (Thể dục - Điền kinh), 1, Tự Chọn, 3.50, B+, ,Chi tiết
+ 6, 1621PHYL2401, Giáo dục thể chất 1 (Thể dục - Điền kinh), 1, Tự Chọn, 3.50, B+, ,Chi tiết
+ 7, 1621EDUC1330, Hoạt động nhóm và kỹ năng truyền thông, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 8, 1621EDUC1330, Hoạt động nhóm và kỹ năng truyền thông, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 9, 1621EDUC1305, Lịch sử các tư tưởng giáo dục, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 10, 1621EDUC1305, Lịch sử các tư tưởng giáo dục, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 11, 1621EDUC1401, Logic học đại cương, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 12, 1621EDUC1401, Logic học đại cương, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 13, 1621POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 14, 1621POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 15, 1621EDUC1304, Phương Pháp nghiên cứu khoa học giáo dục, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 16, 1621EDUC1304, Phương Pháp nghiên cứu khoa học giáo dục, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 17, 1621PSYC1400, Tâm lý học giáo dục, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 18, 1621PSYC1400, Tâm lý học giáo dục, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 19, 1621EDUC1325, Thống kê trong khoa học xã hội, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 20, 1621EDUC1325, Thống kê trong khoa học xã hội, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 21, 1621POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 22, 1621POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 1, 1711EDUC1306, Chiến lược phát triển giáo dục, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 2, 1711EDUC1306, Chiến lược phát triển giáo dục, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 3, 1711EDUC1402, Cơ sở Tâm lý học của quản lý giáo dục, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 4, 1711EDUC1402, Cơ sở Tâm lý học của quản lý giáo dục, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 5, 1711PRIM1402, Cơ sở tiếng Việt ở Tiểu học 1, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 6, 1711PRIM1402, Cơ sở tiếng Việt ở Tiểu học 1, 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 7, 1711PRIM1406, Cơ sở Toán ở tiểu học 1, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 8, 1711PRIM1406, Cơ sở Toán ở tiểu học 1, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 9, 1711POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 10, 1711POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 11, 1711EDUC1336, Giáo dục gia đình, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 12, 1711EDUC1336, Giáo dục gia đình, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 13, 1711PHYL2409, Giáo dục Thể chất 2 - Teakwondo cơ bản, 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 14, 1711PHYL2409, Giáo dục Thể chất 2 - Teakwondo cơ bản, 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 15, 1711EDUC1309, Khoa học quản lý giáo dục, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 16, 1711EDUC1309, Khoa học quản lý giáo dục, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 17, 1711PRIM1415, Sinh lý học học sinh tiểu học, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 18, 1711PRIM1415, Sinh lý học học sinh tiểu học, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 19, 1711PRIM1401, Thực hành Tiếng Việt, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 20, 1711PRIM1401, Thực hành Tiếng Việt, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 21, ENGL2402, Tiếng Anh học phần II, 3, Tự Chọn, , M, ,Chi tiết
+ 22, 1711EDUC1348, Tổ chức hoạt động giáo dục ở trường phổ thông, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 23, 1711EDUC1348, Tổ chức hoạt động giáo dục ở trường phổ thông, 2, Tự Chọn, 1.50, D+, ,Chi tiết
+ 1, 1721EDUC1311, Cơ sở pháp lý của quản lý giáo dục, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 1721EDUC1311, Cơ sở pháp lý của quản lý giáo dục, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 3, 1721MILI1101, Đường lối quân sự của Đảng, 3, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 4, 1721MILI1101, Đường lối quân sự của Đảng, 3, Tự Chọn, 4.00, Ð, ,Chi tiết
+ 5, 1721EDUC1338, Giáo dục hướng nghiệp, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 6, 1721EDUC1338, Giáo dục hướng nghiệp, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 7, 1721PHYL2418, Giáo dục Thể chất 3 - Teakwondo nâng cao, 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 8, 1721PHYL2418, Giáo dục Thể chất 3 - Teakwondo nâng cao, 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 9, 1721PSYC1009, Giao tiếp sư phạm, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 10, 1721PSYC1009, Giao tiếp sư phạm, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 11, 1721EDUC1314, Hệ thống thông tin trong quản lý giáo dục, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 12, 1721EDUC1314, Hệ thống thông tin trong quản lý giáo dục, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 13, 1721EDUC1409, Kiểm định chất lượng giáo dục, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 14, 1721EDUC1409, Kiểm định chất lượng giáo dục, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 15, 1721EDUC1349, Kiểm tra và đánh giá trong giáo dục, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 16, 1721EDUC1349, Kiểm tra và đánh giá trong giáo dục, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 17, 1721EDUC1405," Nghiệp vụ công tác học sinh, sinh viên trong cơ sở giáo dục", 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 18, 1721EDUC1405," Nghiệp vụ công tác học sinh, sinh viên trong cơ sở giáo dục", 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 19, 1721EDUC1007, Quản lý hành chính nhà nước và Quản lý ngành giáo dục và đào tạo, 1, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 20, 1721EDUC1007, Quản lý hành chính nhà nước và Quản lý ngành giáo dục và đào tạo, 1, Tự Chọn, 3.50, B+, ,Chi tiết
+ 21, 1721EDUC1414, Rèn luyện NV QLGD thường xuyên, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 22, 1721EDUC1414, Rèn luyện NV QLGD thường xuyên, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 23, ENGL2403, Tiếng Anh học phần III, 3, Tự Chọn, , M, ,Chi tiết
+ 24, 1721EDUC1408, Ứng dụng Công nghệ thông tin trong Quản lý giáo dục, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 25, 1721EDUC1408, Ứng dụng Công nghệ thông tin trong Quản lý giáo dục, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 1, 1811PRIM1410, Cơ sở Xã hội ở tiểu học, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 1811PRIM1410, Cơ sở Xã hội ở tiểu học, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 3, 1811PRIM1413, Giáo dục học tiểu học, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 4, 1811PRIM1413, Giáo dục học tiểu học, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 5, 1811PRIM1414, Giao tiếp sư phạm (tiểu học), 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 1811PRIM1414, Giao tiếp sư phạm (tiểu học), 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 7, 1811EDUC1313, Nhân cách và lao động của người cán bộ quản lý giáo dục, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 8, 1811EDUC1313, Nhân cách và lao động của người cán bộ quản lý giáo dục, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 9, 1811PRIM1411, Nhập môn nghề giáo (tiểu học), 1, Bắt Buộc, 3.00, B, ,Chi tiết
+ 10, 1811PRIM1411, Nhập môn nghề giáo (tiểu học), 1, Tự Chọn, 3.00, B, ,Chi tiết
+ 11, 1811EDUC1351, Phát triển chương trình giáo dục, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 12, 1811EDUC1351, Phát triển chương trình giáo dục, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 13, 1811EDUC1315, Quản lý hoạt động dạy học, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 14, 1811EDUC1315, Quản lý hoạt động dạy học, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 15, 1811EDUC1412, Quản lý hoạt động giáo dục cộng đồng, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 16, 1811EDUC1412, Quản lý hoạt động giáo dục cộng đồng, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 17, 1811EDUC1407, Quản lý hoạt động giáo dục ngoài giờ lên lớp, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 18, 1811EDUC1407, Quản lý hoạt động giáo dục ngoài giờ lên lớp, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 19, 1811EDUC1406, Quản lý trường học và cơ sở giáo dục, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 20, 1811EDUC1406, Quản lý trường học và cơ sở giáo dục, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 21, 1811PSYC1032, Tham vấn học đường, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 22, 1811PSYC1032, Tham vấn học đường, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 23, 1811PRIM1442, Thủ công - Kỹ thuật, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 24, 1811PRIM1442, Thủ công - Kỹ thuật, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 25, 1811EDUC1411," Tổ chức, quản lý cơ sở giáo dục ngoài công lập", 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 26, 1811EDUC1411," Tổ chức, quản lý cơ sở giáo dục ngoài công lập", 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 1821EDUC1320, Công tác Đảng và đoàn thể trong trường học, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 2, 1821EDUC1320, Công tác Đảng và đoàn thể trong trường học, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 3, 1821PRIM1432, Đại cương văn học Việt Nam, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 4, 1821PRIM1432, Đại cương văn học Việt Nam, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 5, 1821EDUC1318, Quản lý cơ sở vật chất trường học, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 6, 1821EDUC1318, Quản lý cơ sở vật chất trường học, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 7, 1821EDUC1319, Quản lý hoạt động phối hợp các lực lượng giáo dục, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 8, 1821EDUC1319, Quản lý hoạt động phối hợp các lực lượng giáo dục, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 9, 1821EDUC1352, Quản lý người học trong nhà trường, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 10, 1821EDUC1352, Quản lý người học trong nhà trường, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 11, 1821EDUC1317, Quản lý nhân sự trong giáo dục, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 12, 1821EDUC1317, Quản lý nhân sự trong giáo dục, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 13, 1821EDUC1099, Rèn luyện nghiệp vụ quản lý giáo dục, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 14, 1821EDUC1099, Rèn luyện nghiệp vụ quản lý giáo dục, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 15, 1821EDUC1356, Xử lý tình huống trong quản lý giáo dục, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 16, 1821EDUC1356, Xử lý tình huống trong quản lý giáo dục, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 1, 1911EDUC1323, Đảm bảo chất lượng giáo dục, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 2, 1911EDUC1323, Đảm bảo chất lượng giáo dục, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 3, 1911PRIM1425, Đánh giá hoạt động học tập ở tiểu học, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 4, 1911PRIM1425, Đánh giá hoạt động học tập ở tiểu học, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 5, 1911EDUC1322, Kiểm tra và thanh tra trong giáo dục, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 1911EDUC1322, Kiểm tra và thanh tra trong giáo dục, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 7, 1911EDUC1353, Phát triển tập thể sư phạm, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 8, 1911EDUC1353, Phát triển tập thể sư phạm, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 9, 1911EDUC1417, Quản lý các hoạt động giáo dục toàn diện trong nhà trường, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 10, 1911EDUC1417, Quản lý các hoạt động giáo dục toàn diện trong nhà trường, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 11, 1911EDUC1361, Quản lý sự thay đổi trong giáo dục, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 12, 1911EDUC1361, Quản lý sự thay đổi trong giáo dục, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 13, 1911EDUC1321, Quản lý tài chính trong trường học, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 14, 1911EDUC1321, Quản lý tài chính trong trường học, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 1, 1921EDUC1359, Thực tập quản lý giáo dục, 6, Bắt Buộc, 4.00, A, ,Chi tiết
+ 2, 1921EDUC1359, Thực tập quản lý giáo dục, 6, Tự Chọn, 4.00, A, ,Chi tiết
+ 1, 2011PRIM1423, Lý luận dạy học môn Đạo đức, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 2011PRIM1423, Lý luận dạy học môn Đạo đức, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 3, 2011PRIM1541, Nhạc lý cơ bản, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 4, 2011PRIM1541, Nhạc lý cơ bản, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 5, 2011PRIM1426, Phát triển chương trình tiểu học, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 6, 2011PRIM1426, Phát triển chương trình tiểu học, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 7, 2011PRIM1424, Ứng dụng công nghệ thông tin trong dạy học ở tiểu học, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 8, 2011PRIM1424, Ứng dụng công nghệ thông tin trong dạy học ở tiểu học, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 1, 2021PRIM1407, Cơ sở Toán ở tiểu học 2, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 2, 2021PRIM1407, Cơ sở Toán ở tiểu học 2, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 3, 2021PRIM1409, Cơ sở Tự nhiên ở tiểu học, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 2021PRIM1409, Cơ sở Tự nhiên ở tiểu học, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 5, 2021PRIM1462, Hoạt động Đội TNTP HCM ở trường tiểu học, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 6, 2021PRIM1462, Hoạt động Đội TNTP HCM ở trường tiểu học, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 7, 2021PRIM1417, Hoạt động trải nghiệm ở tiểu học, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 8, 2021PRIM1417, Hoạt động trải nghiệm ở tiểu học, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 9, 2021PRIM1427, Nghiệp vụ sư phạm tiểu học, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 10, 2021PRIM1427, Nghiệp vụ sư phạm tiểu học, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 11, 2021PRIM1452, Phương pháp dạy học Âm nhạc ở Tiểu học, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 12, 2021PRIM1452, Phương pháp dạy học Âm nhạc ở Tiểu học, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 13, 2021PRIM1467, Quản lý ngành giáo dục tiểu học, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 14, 2021PRIM1467, Quản lý ngành giáo dục tiểu học, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 15, 2021PRIM1405, Văn học thiếu nhi, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 16, 2021PRIM1405, Văn học thiếu nhi, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 1, 2031PRIM1408, Cơ sở Toán ở tiểu học 3, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 2, 2031PRIM1408, Cơ sở Toán ở tiểu học 3, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 1, 2111PRIM1701, Cơ sở tâm lí học của hoạt động giáo dục ở tiểu học, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 2, 2111PRIM1701, Cơ sở tâm lí học của hoạt động giáo dục ở tiểu học, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 3, 2111PRIM1422, Lý luận dạy học Tự nhiên - Xã hội, 4, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 2111PRIM1422, Lý luận dạy học Tự nhiên - Xã hội, 4, Tự Chọn, 3.00, B, ,Chi tiết
+ 5, 2111PRIM1493, Phát triển năng lực dạy - học Tự nhiên - Xã hội ở tiểu học, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 6, 2111PRIM1493, Phát triển năng lực dạy - học Tự nhiên - Xã hội ở tiểu học, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 1, 2121PRIM1714, Cơ sở tiếng Việt ở tiểu học 2, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 2, 2121PRIM1714, Cơ sở tiếng Việt ở tiểu học 2, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 3, 2121PRIM1463, Giáo dục giới tính cho học sinh tiểu học, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 4, 2121PRIM1463, Giáo dục giới tính cho học sinh tiểu học, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 5, 2121PRIM1451, Phương pháp dạy học Thể dục ở Tiểu học, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 6, 2121PRIM1451, Phương pháp dạy học Thể dục ở Tiểu học, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 7, 2121PRIM1705, Phương pháp nghiên cứu khoa học giáo dục ở tiểu học, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 8, 2121PRIM1705, Phương pháp nghiên cứu khoa học giáo dục ở tiểu học, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 1, 2131PRIM1715, Cơ sở tiếng Việt ở tiểu học 3, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 2, 2131PRIM1715, Cơ sở tiếng Việt ở tiểu học 3, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 3, 2131PRIM1722, Lý luận dạy học Toán ở tiểu học, 4, Tự Chọn, 3.00, B, ,Chi tiết
+ 4, 2131PRIM1722, Lý luận dạy học Toán ở tiểu học, 4, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 2211PRIM1718, Lý luận dạy học Tiếng Việt ở tiểu học 1, 4, Tự Chọn, 3.50, B+, ,Chi tiết
+ 2, 2211PRIM1718, Lý luận dạy học Tiếng Việt ở tiểu học 1, 4, Tự Chọn, 3.50, B+, ,Chi tiết
+ 3, 2211PRIM1483, Phát triển kỹ năng dạy học tiếp nhận tác phẩm văn học, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 4, 2211PRIM1483, Phát triển kỹ năng dạy học tiếp nhận tác phẩm văn học, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 5, 2211PRIM1491, Phát triển năng lực dạy - học Toán ở tiểu học, 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 6, 2211PRIM1491, Phát triển năng lực dạy - học Toán ở tiểu học, 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 7, 2211PRIM1486, Phát triển năng lực dạy học văn kể chuyện ở tiểu học, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 8, 2211PRIM1486, Phát triển năng lực dạy học văn kể chuyện ở tiểu học, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 9, 2211PRIM1487, Phương ngữ và dạy học chính tả, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 10, 2211PRIM1487, Phương ngữ và dạy học chính tả, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 1, 2221PRIM1770, Dạy học cho học sinh tiểu học gặp khó khăn trong môn Toán, 2, Tự Chọn, , , ,Chi tiết
+ 2, 2221PRIM1770, Dạy học cho học sinh tiểu học gặp khó khăn trong môn Toán, 2, Tự Chọn, , , ,Chi tiết
+ 3, 2221PRIM1719, Lý luận dạy học Tiếng Việt ở tiểu học 2, 4, Tự Chọn, , , ,Chi tiết
+ 4, 2221PRIM1719, Lý luận dạy học Tiếng Việt ở tiểu học 2, 4, Tự Chọn, , , ,Chi tiết
+ 5, 2221PRIM1726, Thực tập sư phạm 1, 2, Tự Chọn, , , ,Chi tiết
+ 6, 2221PRIM1726, Thực tập sư phạm 1, 2, Tự Chọn, , , ,Chi tiết

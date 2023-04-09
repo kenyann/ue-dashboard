@@ -1,0 +1,70 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1811FRAN1011, Đọc viết cơ sở, 4, Bắt Buộc, 2.00, C, ,Chi tiết
+ 2, 1811MILI2401, Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam, 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 3, 1811PHYL2401, Giáo dục thể chất 1 (Thể dục - Điền kinh), 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 4, 1811FRAN1001, Nghe nói cơ sở, 4, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 5, 1811EDUC1400, Nhập môn nghề giáo, 1, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 1811POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 7, 1811PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 8, 1811TTTH1001, Tin học căn bản, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 1, 1821FRAN1012, Đọc - Viết 1 (SP), 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 2, 1821PHYL2408, Giáo dục Thể chất 2 - Bóng đá cơ bản, 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 3, 1821FRAN1055, Lý luận dạy và học ngoại ngữ, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 1821FRAN1002, Nghe - Nói 1 (SP), 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 5, 1821FRAN1021, Ngữ âm tiếng Pháp, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 6, 1821FRAN1023, Ngữ pháp tiếng Pháp 1, 2, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 7, 1821POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 8, 1821FRAN1030, Phương pháp nghiên cứu khoa học chuyên ngành tiếng Pháp, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 9, 1821PSYC1400, Tâm lý học giáo dục, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 10, 1821ENGL2401, Tiếng Anh học phần I, 4, Tự Chọn, 3.50, B+, ,Chi tiết
+ 11, 1821POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 1, 1831PHYL2417, Giáo dục Thể chất 3 - Bóng đá nâng cao, 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 2, 1831MILI2403," Quân sự chung, chiến thuật, kỹ thuật bắn súng ngắn và sử dụng lựu đạn", 4, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 1, 1911FRAN1013, Đọc - Viết 2 SP, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 2, 1911POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 3, 1911PSYC1009, Giao tiếp sư phạm, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 1911MILI2404," Hiểu biết chung về quân, binh chủng", 1, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 5, 1911FRAN1003, Nghe - Nói 2 SP, 3, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 6, 1911FRAN1056, Phương pháp dạy và học tiếng Pháp, 3, Bắt Buộc, 1.00, D, ,Chi tiết
+ 7, 1911FRAN1042, Phương pháp nghiên cứu điều tra xã hội, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 8, 1911ENGL2402, Tiếng Anh học phần II, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 9, 1911EDUC1348, Tổ chức hoạt động giáo dục ở trường phổ thông, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 10, 1911FRAN1022, Từ vựng tiếng Pháp, 2, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 1, 1921FRAN1014, Đọc - Viết 3 SP, 2, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 2, 1921EDUC1003, Giáo dục học đại cương, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 3, 1921FRAN1004, Nghe - Nói 3 SP, 3, Bắt Buộc, 1.00, D, ,Chi tiết
+ 4, 1921FRAN1025, Ngữ pháp văn bản, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 5, 1921FRAN1057, Phương pháp quan sát dự giờ, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 6, 1921FRAN1018, Rèn luyện nghiệp vụ SP thường xuyên, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 7, 1921FRAN1138, Thông tin thời sự 1, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 8, 1921ENGL2403, Tiếng Anh học phần III, 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 1, 2011FRAN1015, Đọc - Viết 4 (SP), 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 2, 2011FRAN1005, Nghe - Nói 4 (SP), 3, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 1, 2021FRAN1016, Đọc - Viết 5 SP, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 2, 2021FRAN1006, Nghe - Nói 5 SP, 3, Bắt Buộc, 1.00, D, ,Chi tiết
+ 3, 2021FRAN1031, Văn học Pháp, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 2031MILI2702, Công tác quốc phòng và an ninh, 2, Tự Chọn, 3.00, Ð, ,Chi tiết
+ 2, 2031FRAN1026, Phân tích văn bản văn học, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 3, 2031FRAN1022, Từ vựng tiếng Pháp, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 1, 2111FRAN1706, Đọc - Viết 3, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 2, 2111FRAN1017, Đọc - Viết 6 (SP), 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 3, 2111FRAN1059, Kiểm tra đánh giá KQHT môn tiếng Pháp, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 4, 2111FRAN1007, Nghe - Nói 6 (SP), 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 5, 2111FRAN1023, Ngữ pháp tiếng Pháp 1, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 6, 2111FRAN1083, Phân tích tác nghiệp, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 7, 2111FRAN1084, Thiết kế chuyên đề dạy học, 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 8, 2111FRAN1008, Tiếng Pháp nâng cao (SP), 3, Tự Chọn, 1.50, D+, ,Chi tiết
+ 9, 2111FRAN1043, Ứng dụng CNTT trong dạy học tiếng Pháp, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 10, 2111FRAN1058, Xây dựng kỹ năng giảng dạy, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 1, 2121FRAN1704, Đọc - Viết 2, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 2, 2121FRAN1708, Đọc - Viết 4, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 3, 2121FRAN1703, Nghe - Nói 2, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 4, 2121FRAN1024, Ngữ pháp tiếng Pháp 2, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 5, 2121FRAN1060, Phát triển chương trình môn tiếng Pháp, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 2121FRAN1062, Thiết kế công cụ đánh giá, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 7, 2121FRAN1139, Thông tin thời sự 2, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 8, 2121FRAN1019, Thực tập sư phạm 1, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 1, 2211FRAN1706, Đọc - Viết 3, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 2, 2211FRAN1705, Nghe - Nói 3, 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 1, 2221FRAN1020, Thực tập sư phạm 2, 6, Bắt Buộc, , , ,Chi tiết
+ 2, 2221FRAN1032, Văn hóa Pháp, 2, Bắt Buộc, , , ,Chi tiết

@@ -1,0 +1,59 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1211LITR1003, Cơ sở văn hoá Việt Nam, 2, Bắt Buộc, , , ,Chi tiết
+ 2, 1211FREN1012, Đọc Viết cơ sở, 4, Bắt Buộc, 0.00, F, ,Chi tiết
+ 3, 1211FREN1011, Nghe Nói cơ sở, 4, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 4, 1211POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 0.00, F, ,Chi tiết
+ 5, 1211ENGL2001," Tiếng Anh ngoại ngữ 2, học phần 1", 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 6, 1211COMP1001, Tin học căn bản, 3, Bắt Buộc, 0.00, F, ,Chi tiết
+ 1, 1221LITR1003, Cơ sở văn hoá Việt Nam, 2, Bắt Buộc, , , ,Chi tiết
+ 2, 1221MILI1001, Giáo dục quốc phòng (HP1), 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 3, 1221MILI1002, Giáo dục quốc phòng (HP2), 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 4, 1221MILI1003, Giáo dục quốc phòng (HP3), 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 5, 1221MILI1004, Giáo dục quốc phòng (HP4), 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 6, 1221PHYL1003, Giáo dục thể chất 2 (Thể dục), 2, Tự Chọn, 0.00, F, ,Chi tiết
+ 7, 1221FREN1054, Lịch sử và du lịch, 2, Bắt Buộc, , , ,Chi tiết
+ 8, 1221FREN1017, Ngữ âm, 2, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 9, 1221FREN1019, Ngữ pháp 1, 2, Bắt Buộc, , , ,Chi tiết
+ 10, 1221ENGL2002," Tiếng Anh ngoại ngữ 2, học phần 2", 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 11, 1221FREN1013, Tiếng Pháp 1 (SP), 4, Tự Chọn, , , ,Chi tiết
+ 12, 1221LITR1007, Tiếng Việt, 2, Bắt Buộc, , , ,Chi tiết
+ 13, 1221COMP1001, Tin học căn bản, 3, Bắt Buộc, 0.00, F, ,Chi tiết
+ 14, 1221FREN1074, Tin học và ứng dụng trong du lịch, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 15, 1221POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 1, 1311LITR1006, Dẫn luận ngôn ngữ học, 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 2, 1311FREN1012, Đọc Viết cơ sở, 4, Bắt Buộc, , , ,Chi tiết
+ 3, 1311FREN1011, Nghe Nói cơ sở, 4, Bắt Buộc, , , ,Chi tiết
+ 4, 1311POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 0.00, F, ,Chi tiết
+ 5, 1311FREN1205, Phương pháp nghiên cứu khoa học, 2, Bắt Buộc, , , ,Chi tiết
+ 6, 1311COMP1001, Tin học căn bản, 3, Bắt Buộc, 0.00, F, ,Chi tiết
+ 1, 1321ENGL2004," Tiếng Anh ngoại ngữ 2, học phần 4", 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 2, 1321LITR1007, Tiếng Việt, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 3, 1321COMP1001, Tin học căn bản, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 4, 1321POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 1, 1331POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, , , ,Chi tiết
+ 1, 1411LITR1003, Cơ sở văn hoá Việt Nam, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 2, 1411LITR1006, Dẫn luận ngôn ngữ học, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 3, 1411POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 4, 1411PHYL1002, Giáo dục thể chất 1 (Điền kinh), 2, Tự Chọn, 0.00, F, ,Chi tiết
+ 5, 1411FREN1011, Nghe Nói cơ sở, 4, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 6, 1411POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 1.00, D, ,Chi tiết
+ 7, 1411ENGL2003," Tiếng Anh ngoại ngữ 2, học phần 3", 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 1, 1421PHYL1002, Giáo dục thể chất 1 (Điền kinh), 2, Tự Chọn, 0.00, F, ,Chi tiết
+ 2, 1421PHYL1003, Giáo dục thể chất 2 (Thể dục), 2, Tự Chọn, 0.00, F, ,Chi tiết
+ 3, 1421FREN1017, Ngữ âm, 2, Bắt Buộc, , , ,Chi tiết
+ 4, 1421FREN1019, Ngữ pháp 1, 2, Bắt Buộc, , , ,Chi tiết
+ 5, 1421FREN1205, Phương pháp nghiên cứu khoa học, 2, Bắt Buộc, , , ,Chi tiết
+ 6, 1421FREN1213, Tiếng Pháp 1 (DL), 4, Bắt Buộc, , , ,Chi tiết
+ 7, 1421FREN1215, Tiếng Pháp 3 (DL), 4, Bắt Buộc, 0.00, F, ,Chi tiết
+ 8, 1421FREN1074, Tin học và ứng dụng trong du lịch, 2, Bắt Buộc, , , ,Chi tiết
+ 9, 1421FREN1018, Từ vựng, 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 1, 1511LITR1006, Dẫn luận ngôn ngữ học, 2, Bắt Buộc, , , ,Chi tiết
+ 2, 1511FREN1048, Dịch nói 3, 2, Tự Chọn, 0.00, F, ,Chi tiết
+ 3, 1511POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, , , ,Chi tiết
+ 4, 1511PHYL1004, Giáo dục thể chất 3 (Cầu lông), 1, Tự Chọn, 0.00, F, ,Chi tiết
+ 5, 1511FREN1020, Ngữ pháp 2, 2, Tự Chọn, 0.00, F, ,Chi tiết
+ 6, 1511FREN1205, Phương pháp nghiên cứu khoa học, 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 7, 1511FREN1078, Tiếng Anh du lịch 1, 3, Tự Chọn, 0.00, F, ,Chi tiết
+ 8, 1511FREN1214, Tiếng Pháp 2 (DL), 4, Bắt Buộc, 0.00, F, ,Chi tiết
+ 9, 1511FREN1216, Tiếng Pháp 4 (DL), 4, Tự Chọn, 0.00, F, ,Chi tiết
+ 10, 1511FREN1072, Tổng quan du lịch, 2, Bắt Buộc, 0.00, F, ,Chi tiết

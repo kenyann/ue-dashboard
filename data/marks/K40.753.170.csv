@@ -1,0 +1,45 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, FRAN1212, Đọc - Viết 1 (DL), 2, Bắt Buộc, 3.00, R, ,Chi tiết
+ 2, FRAN1202, Nghe - Nói 1 (DL), 3, Bắt Buộc, 3.50, R, ,Chi tiết
+ 3, FRAN1021, Ngữ âm tiếng Pháp, 2, Bắt Buộc, 3.50, R, ,Chi tiết
+ 4, FRAN1023, Ngữ pháp tiếng Pháp 1, 2, Bắt Buộc, 4.00, R, ,Chi tiết
+ 1, FRAN1213, Đọc - Viết 2 DL, 2, Bắt Buộc, 3.00, R, ,Chi tiết
+ 2, FRAN1203, Nghe - Nói 2 DL, 3, Bắt Buộc, 2.50, R, ,Chi tiết
+ 3, FRAN1024, Ngữ pháp tiếng Pháp 2, 2, Bắt Buộc, 3.50, R, ,Chi tiết
+ 4, FRAN1022, Từ vựng tiếng Pháp, 2, Bắt Buộc, 3.50, R, ,Chi tiết
+ 1, FRAN1204, Nghe - Nói 3 DL, 3, Bắt Buộc, 2.00, R, ,Chi tiết
+ 1, 1711FRAN1215, Đọc - Viết 4 (DL), 2, Bắt Buộc, , , ,Chi tiết
+ 2, 1711FRAN1249, Kinh tế du lịch, 2, Tự Chọn, , , ,Chi tiết
+ 3, 1711FRAN1205, Nghe - Nói 4 (DL), 3, Bắt Buộc, , , ,Chi tiết
+ 4, 1711FRAN1248, Nhập môn Luật, 2, Bắt Buộc, , , ,Chi tiết
+ 5, 1711FRAN1075, Quản trị lữ hành, 2, Tự Chọn, , , ,Chi tiết
+ 6, 1711FRAN1077, Quản trị nhà hàng - khách sạn, 3, Bắt Buộc, , , ,Chi tiết
+ 7, 1711FRAN1076, Thuyết minh tuyến điểm du lịch, 2, Bắt Buộc, , , ,Chi tiết
+ 8, 1711FRAN1251, Tiếng Anh du lịch 1, 2, Tự Chọn, , , ,Chi tiết
+ 1, 1721FRAN1216, Đọc - Viết 5 DL, 2, Bắt Buộc, , , ,Chi tiết
+ 2, 1721FRAN1250, Luật du lịch, 2, Bắt Buộc, , , ,Chi tiết
+ 3, 1721FRAN1079, Marketing du lịch, 3, Bắt Buộc, , , ,Chi tiết
+ 4, 1721FRAN1206, Nghe - Nói 5 DL, 3, Bắt Buộc, , , ,Chi tiết
+ 5, 1721FRAN1078, Phát huy tiềm năng du lịch, 2, Bắt Buộc, , , ,Chi tiết
+ 6, 1721FRAN1252, Tiếng Anh du lịch 2, 2, Tự Chọn, , , ,Chi tiết
+ 7, 1721FRAN1053, Xây dựng kỹ năng hội nhập nghề nghiệp, 2, Tự Chọn, , , ,Chi tiết
+ 1, MILI1102," Công tác quốc phòng, an ninh", 2, Bắt Buộc, , M, ,Chi tiết
+ 2, 1811FRAN1215, Đọc - Viết 4 (DL), 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 3, MILI1101, Đường lối quân sự của Đảng, 3, Bắt Buộc, , M, ,Chi tiết
+ 4, 1811PHYL2413, Giáo dục Thể chất 3 - Aerobic nâng cao, 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 5, 1811FRAN1249, Kinh tế du lịch, 2, Tự Chọn, 0.50, F+, ,Chi tiết
+ 6, 1811FRAN1205, Nghe - Nói 4 (DL), 3, Bắt Buộc, 0.00, F, ,Chi tiết
+ 7, MILI1103," Quân sự chung và chiến thuật, kỹ thuật bắn súng tiểu liên AK", 4, Bắt Buộc, , M, ,Chi tiết
+ 8, 1811FRAN1075, Quản trị lữ hành, 2, Tự Chọn, 0.00, F, ,Chi tiết
+ 9, 1811FRAN1076, Thuyết minh tuyến điểm du lịch, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 10, 1811FRAN1251, Tiếng Anh du lịch 1, 2, Tự Chọn, 0.00, F, ,Chi tiết
+ 1, 1821FRAN1237, Địa lý du lịch, 2, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 2, 1821FRAN1214, Đọc - Viết 3 DL, 2, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 3, 1821FRAN1236, Lịch sử và du lịch, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 4, 1821FRAN1250, Luật du lịch, 2, Bắt Buộc, , , ,Chi tiết
+ 5, 1821FRAN1079, Marketing du lịch, 3, Bắt Buộc, , , ,Chi tiết
+ 6, 1821FRAN1074, Nghiệp vụ hướng dẫn du lịch, 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 7, 1821FRAN1027, Ngôn ngữ học đối chiếu Pháp - Việt, 2, Tự Chọn, , , ,Chi tiết
+ 8, 1821FRAN1247, Nhập môn Kinh tế, 2, Bắt Buộc, , , ,Chi tiết
+ 9, 1821FRAN1242, Phương pháp nghiên cứu điều tra xã hội chuyên ngành tiếng Pháp du lịch, 2, Tự Chọn, 0.50, F+, ,Chi tiết
+ 10, 1821FRAN1032, Văn hóa Pháp, 2, Bắt Buộc, 0.00, F, ,Chi tiết

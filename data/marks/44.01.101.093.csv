@@ -1,0 +1,60 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1811MATH1402, Đại số tuyến tính 1, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 2, 1811MILI2401, Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam, 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 3, 1811MATH1403, Giải tích hàm một biến, 4, Bắt Buộc, 4.00, A, ,Chi tiết
+ 4, 1811PHYL2401, Giáo dục thể chất 1 (Thể dục - Điền kinh), 1, Tự Chọn, 3.50, B+, ,Chi tiết
+ 5, 1811MATH1405, Hình học giải tích, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 6, 1811EDUC1400, Nhập môn nghề giáo, 1, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 7, 1811POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 8, 1811PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, , , ,Chi tiết
+ 9, 1811TTTH1001, Tin học căn bản, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 1, 1821MATH1404, Đại số tuyến tính 2, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 1821MATH1407, Giải tích hàm nhiều biến, 4, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 3, 1821EDUC1003, Giáo dục học đại cương, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 4, 1821PHYL2407, Giáo dục Thể chất 2 - Bóng rổ cơ bản, 1, Tự Chọn, 2.50, C+, ,Chi tiết
+ 5, 1821MILI2404," Hiểu biết chung về quân, binh chủng", 1, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 6, 1821POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 7, 1821MATH1481, Phương pháp nghiên cứu khoa học, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 8, 1821PSYC1400, Tâm lý học giáo dục, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 9, 1821ENGL2401, Tiếng Anh học phần I, 4, Tự Chọn, 2.00, C, ,Chi tiết
+ 10, 1821POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 1, 1831PHYL2417, Giáo dục Thể chất 3 - Bóng đá nâng cao, 1, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 1911MATH1409, Đại số đại cương 1, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 2, 1911POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 3, 1911PSYC1009, Giao tiếp sư phạm, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 4, 1911MATH1411, Hình học cao cấp, 4, Bắt Buộc, 3.00, B, ,Chi tiết
+ 5, 1911MILI2403," Quân sự chung, chiến thuật, kỹ thuật bắn súng ngắn và sử dụng lựu đạn", 4, Bắt Buộc, 3.50, Ð, ,Chi tiết
+ 6, 1911PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 7, 1911ENGL2402, Tiếng Anh học phần II, 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 8, 1911EDUC1348, Tổ chức hoạt động giáo dục ở trường phổ thông, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 9, 1911MATH1410, Tôpô đại cương, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 1921MILI2402, Công tác quốc phòng và an ninh, 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 2, 1921MATH1421, Đại cương về phương pháp tính, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 3, 1921MATH1412, Đại số đại cương 2, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 4, 1921MATH1413, Độ đo và tích phân, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 5, 1921MATH1415, Hàm một biến phức, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 6, 1921MATH1417, Hình học vi phân, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 7, 1921MATH1408, Lý thuyết tối ưu tuyến tính, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 2011MATH1409, Đại số đại cương 1, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 2, 2011MATH1428, Đại số sơ cấp, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 3, 2011MATH1419, Giải tích hàm, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 4, 2011MATH1424, Lý luận dạy học đại cương môn toán, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 5, 2011MATH1416, Lý thuyết trường, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 6, 2011MATH1414, Phương trình vi phân và phương trình đạo hàm riêng, 4, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 7, 2011MATH1420, Số luận, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 8, 2011MATH1406, Xác suất thống kê 1, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 1, 2021MATH1435, Giải tích hàm nâng cao, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 2, 2021MATH1407, Giải tích hàm nhiều biến, 4, Bắt Buộc, 4.00, A, ,Chi tiết
+ 3, 2021MATH1426, Lý luận dạy học đại số và giải tích, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 4, 2021MATH1427, Lý luận dạy học hình học, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 5, 2021MATH1436, Phép tính vi phân trên không gian hữu hạn chiều, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 6, 2021MATH1446, Thực tập sư phạm 1, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 7, 2021ENGL2403, Tiếng Anh học phần III, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 8, 2021MATH1425, Ứng dụng công nghệ thông tin trong dạy học, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 9, 2021MATH1418, Xác suất thống kê 2, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 1, 2111MATH1429, Hình học sơ cấp, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 2, 2111MATH1423, Kiểm tra và đánh giá trong giáo dục môn toán, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 3, 2111MATH1422, Phát triển chương trình môn toán, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 2111MATH1430, Rèn luyện nghiệp vụ sư phạm thường xuyên, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 1, 2121MATH1448, Khóa luận tốt nghiệp, 6, Tự Chọn, 4.00, A, ,Chi tiết
+ 2, 2121MATH1447, Thực tập sư phạm 2, 6, Bắt Buộc, 4.00, A, ,Chi tiết

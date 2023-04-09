@@ -12,7 +12,8 @@ STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Đi�
  5, 1921POLI2002, Kinh tế chính trị học Mác - Lênin, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
  6, 1921PSYC1493, Kỹ năng thích ứng và giải quyết vấn đề, 2, Tự Chọn, 3.50, B+, ,Chi tiết
  7, 1921ENGL1402, Nghe - Nói 2, 3, Bắt Buộc, 4.00, A, ,Chi tiết
- 8, 1921TTTH1001, Tin học căn bản, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 8, JAPN2401, Tiếng Nhật học phần I, 4, Tự Chọn, , M, ,Chi tiết
+ 9, 1921TTTH1001, Tin học căn bản, 3, Bắt Buộc, 4.00, A, ,Chi tiết
  1, 2011ENGL1408, Đọc - Viết 3, 3, Bắt Buộc, 4.00, A, ,Chi tiết
  2, 2011MILI2401, Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam, 2, Bắt Buộc, 3.50, Ð, ,Chi tiết
  3, 2011PHYL2412, Giáo dục Thể chất 3 - Cầu lông nâng cao, 1, Tự Chọn, 4.00, A, ,Chi tiết
@@ -20,7 +21,8 @@ STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Đi�
  5, 2011PSYC1494, Kỹ năng quản lý cảm xúc, 2, Tự Chọn, 4.00, A, ,Chi tiết
  6, 2011ENGL1403, Nghe - Nói 3, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
  7, 2011ENGL1411, Ngôn Ngữ học 1, 3, Bắt Buộc, 3.00, B, ,Chi tiết
- 8, 2011POLI2005, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 8, JAPN2402, Tiếng Nhật học phần II, 3, Tự Chọn, , M, ,Chi tiết
+ 9, 2011POLI2005, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 3.00, B, ,Chi tiết
  1, 2021ENGL1446, Biên dịch báo chí 1, 4, Bắt Buộc, 4.00, A, ,Chi tiết
  2, 2021ENGL1409, Đọc - Viết 4, 3, Bắt Buộc, 4.00, A, ,Chi tiết
  3, 2021POLI2004, Lịch sử Đảng cộng sản Việt Nam, 2, Bắt Buộc, 2.00, C, ,Chi tiết
@@ -29,6 +31,7 @@ STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Đi�
  6, 2021ENGL1412, Ngôn ngữ học 2, 3, Bắt Buộc, 3.00, B, ,Chi tiết
  7, 2021ENGL1447, Phiên dịch báo chí 1, 3, Bắt Buộc, 4.00, A, ,Chi tiết
  8, 2021ENGL1450, Phiên dịch du lịch 1, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 9, JAPN2403, Tiếng Nhật học phần III, 3, Tự Chọn, , M, ,Chi tiết
  1, 2111ENGL1449, Biên dịch báo chí 2, 3, Bắt Buộc, 4.00, A, ,Chi tiết
  2, 2111ENGL1448, Biên dịch du lịch 1, 4, Bắt Buộc, 4.00, A, ,Chi tiết
  3, 2111ENGL1410, Đọc - Viết 5, 3, Bắt Buộc, 3.50, B+, ,Chi tiết

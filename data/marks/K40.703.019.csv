@@ -1,0 +1,81 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1411LITR1003, Cơ sở văn hoá Việt Nam, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 2, 1411FREN1012, Đọc Viết cơ sở, 4, Bắt Buộc, 3.00, B, ,Chi tiết
+ 3, 1411PHYL1002, Giáo dục thể chất 1 (Điền kinh), 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 4, 1411FREN1011, Nghe Nói cơ sở, 4, Bắt Buộc, 2.00, C, ,Chi tiết
+ 5, 1411POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 6, 1411MILI1103," Quân sự chung và chiến thuật, kỹ thuật bắn súng tiểu liên AK", 4, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 7, 1411ENGL2001," Tiếng Anh ngoại ngữ 2, học phần 1", 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 8, 1411COMP1001, Tin học căn bản, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 1, 1421PHYL1003, Giáo dục thể chất 2 (Thể dục), 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 2, 1421FREN1023, Lý luận dạy và học ngoại ngữ, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 3, 1421FREN1017, Ngữ âm, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 4, 1421FREN1019, Ngữ pháp 1, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 5, 1421FREN1205, Phương pháp nghiên cứu khoa học, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 6, 1421PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 7, 1421ENGL2002," Tiếng Anh ngoại ngữ 2, học phần 2", 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 8, 1421FREN1013, Tiếng Pháp 1 (SP), 4, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 9, 1421LITR1007, Tiếng Việt, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 10, 1421POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 1, 1511FREN1024, Các phương pháp và kỹ thuật dạy và học tiếng Pháp, 3, Bắt Buộc, 1.00, D, ,Chi tiết
+ 2, 1511LITR1006, Dẫn luận ngôn ngữ học, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 3, 1511POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 1511PSYC1003, Giáo dục học đại cương, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 5, 1511PHYL1004, Giáo dục thể chất 3 (Cầu lông), 1, Tự Chọn, 3.50, B+, ,Chi tiết
+ 6, 1511FREN1020, Ngữ pháp 2, 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 7, 1511PSYC1002, Tâm lý học lứa tuổi và Tâm lý học sư phạm, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 8, 1511ENGL2003," Tiếng Anh ngoại ngữ 2, học phần 3", 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 9, 1511FREN1014, Tiếng Pháp 2 (SP), 4, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 1, 1521MILI1101, Đường lối quân sự của Đảng, 3, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 2, 1521PSYC1004, Giáo dục học phổ thông, 3, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 3, 1521PSYC1022, Giao tiếp và ứng xử sư phạm, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 4, 1521FREN1010, Ngôn ngữ học đối chiếu Pháp – Việt, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 5, 1521FRAN1021, Ngữ âm tiếng Pháp, 2, Tự Chọn, 1.50, D+, ,Chi tiết
+ 6, 1521FREN1040, Phương pháp nghiên cứu điều tra xã hội, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 7, 1521FREN1025, Quản lý chương trình và tài liệu giảng dạy, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 8, 1521ENGL2004," Tiếng Anh ngoại ngữ 2, học phần 4", 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 9, 1521FREN1015, Tiếng Pháp 3 (SP), 4, Bắt Buộc, 1.00, D, ,Chi tiết
+ 10, 1521DOMS1009, Trang điểm căn bản, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 11, 1521FREN1018, Từ vựng, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 1, 1531MILI1102," Công tác quốc phòng, an ninh", 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 2, 1531FREN1014, Tiếng Pháp 2 (SP), 4, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 1, 1611FREN1024, Các phương pháp và kỹ thuật dạy và học tiếng Pháp, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 2, 1611FREN1206, Chương trình cơ bản về dạy học của Intel, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 3, 1611FRAN1013, Đọc - Viết 2 SP, 2, Tự Chọn, 1.50, D+, ,Chi tiết
+ 4, 1611FREN1026, Kiểm tra-đánh giá, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 5, 1611DOMS1003, Làm bánh, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 6, 1611FRAN1003, Nghe - Nói 2 SP, 3, Tự Chọn, 1.50, D+, ,Chi tiết
+ 7, 1611FRAN1021, Ngữ âm tiếng Pháp, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 8, 1611FRAN1024, Ngữ pháp tiếng Pháp 2, 2, Tự Chọn, 0.00, F, ,Chi tiết
+ 9, 1611PSYC1007, Quản lý hành chính nhà nước và Quản lý ngành giáo dục và đào tạo, 1, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 10, 1611FREN1027, Xây dựng kỹ năng giảng dạy, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 1, 1621FRAN1014, Đọc - Viết 3 SP, 2, Tự Chọn, 0.50, F+, ,Chi tiết
+ 2, 1621TNST2442, Kỹ năng thiết kế và tổ chức hoạt động trải nghiệm sáng tạo, 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 3, 1621FRAN1004, Nghe - Nói 3 SP, 3, Tự Chọn, 1.00, D, ,Chi tiết
+ 4, 1621FRAN1048, Rèn luyện nghiệp vụ Sư phạm, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 5, 1621FREN1022, Văn hóa Pháp, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 6, 1621FREN1021, Văn học Pháp, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 1, 1711FRAN1015, Đọc - Viết 4 (SP), 2, Tự Chọn, 0.50, F+, ,Chi tiết
+ 2, 1711DOMS1006, Kỹ thuật cắt may căn bản, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 3, 1711FREN1064, Lý luận đánh giá trong giáo dục, 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 4, 1711FRAN1024, Ngữ pháp tiếng Pháp 2, 2, Tự Chọn, 0.50, F+, ,Chi tiết
+ 5, 1711FREN1028, Phân tích tác nghiệp, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 6, 1711FREN1049, Thông tin thời sự 3, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 1721FRAN1014, Đọc - Viết 3 SP, 2, Tự Chọn, 1.50, D+, ,Chi tiết
+ 2, 1721FRAN1016, Đọc - Viết 5 SP, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 3, 1721FRAN1138, Thông tin thời sự 1, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 4, 1721FREN1060, Thực tập sư phạm, 6, Bắt Buộc, 4.00, A, ,Chi tiết
+ 1, 1811FRAN1015, Đọc - Viết 4 (SP), 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 2, 1811FRAN1017, Đọc - Viết 6 (SP), 2, Tự Chọn, 0.50, F+, ,Chi tiết
+ 3, 1811FRAN1005, Nghe - Nói 4 (SP), 3, Tự Chọn, 1.00, D, ,Chi tiết
+ 4, 1811FRAN1007, Nghe - Nói 6 (SP), 3, Tự Chọn, 0.00, F, ,Chi tiết
+ 5, 1811FRAN1024, Ngữ pháp tiếng Pháp 2, 2, Tự Chọn, 0.50, F+, ,Chi tiết
+ 6, 1811FRAN1139, Thông tin thời sự 2, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 7, 1811FRAN1008, Tiếng Pháp nâng cao (SP), 3, Tự Chọn, 0.50, F+, ,Chi tiết
+ 8, 1811FRAN1054, Xây dựng kỹ năng giao tiếp nghề nghiệp, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 1, 1821FRAN1006, Nghe - Nói 5 SP, 3, Tự Chọn, 1.00, D, ,Chi tiết
+ 2, 1821FRAN1025, Ngữ pháp văn bản, 2, Tự Chọn, 1.00, D, ,Chi tiết
+ 1, 1831FRAN1024, Ngữ pháp tiếng Pháp 2, 2, Tự Chọn, 0.50, F+, ,Chi tiết
+ 1, 1911FRAN1024, Ngữ pháp tiếng Pháp 2, 2, Tự Chọn, 1.50, D+, ,Chi tiết
+ 2, 1911FRAN1008, Tiếng Pháp nâng cao (SP), 3, Tự Chọn, 0.50, F+, ,Chi tiết
+ 1, 2011FRAN1008, Tiếng Pháp nâng cao (SP), 3, Tự Chọn, 1.50, D+, ,Chi tiết

@@ -1,0 +1,50 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1911FRAN1011, Đọc viết cơ sở, 4, Bắt Buộc, 4.00, A, ,Chi tiết
+ 2, 1911MILI2401, Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam, 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 3, 1911PHYL2401, Giáo dục thể chất 1 (Thể dục - Điền kinh), 1, Tự Chọn, 3.50, B+, ,Chi tiết
+ 4, 1911FRAN1001, Nghe nói cơ sở, 4, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 5, 1911POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 6, 1911PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 7, 1911POLI2001, Triết học Mác – Lênin, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 1, 1921POLI2003, Chủ nghĩa xã hội khoa học, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 2, 1921MILI2402, Công tác quốc phòng và an ninh, 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 3, 1921FRAN1112, Đọc - Viết 1 (BPD), 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 1921PHYL2408, Giáo dục Thể chất 2 - Bóng đá cơ bản, 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 5, 1921POLI2002, Kinh tế chính trị học Mác - Lênin, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 6, 1921FRAN1102, Nghe - Nói 1 (BPD), 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 7, 1921FRAN1021, Ngữ âm tiếng Pháp, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 8, 1921FRAN1023, Ngữ pháp tiếng Pháp 1, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 9, 1921FRAN1030, Phương pháp nghiên cứu khoa học chuyên ngành tiếng Pháp, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 10, 1921TTTH1001, Tin học căn bản, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 1, 2011FRAN1113, Đọc - Viết 2 BPD, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 2, 2011PHYL2417, Giáo dục Thể chất 3 - Bóng đá nâng cao, 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 3, 2011FRAN1103, Nghe - Nói 2 BPD, 3, Bắt Buộc, 0.00, F, ,Chi tiết
+ 4, 2011FRAN1064, Nguyên tắc dịch thuật, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 5, 2011POLI2005, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 6, 2011FRAN1143, Ứng dụng CNTT và truyền thông chuyên ngành tiếng Pháp BPD, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 2021PSYC1494, Kỹ năng quản lý cảm xúc, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 2, 2021POLI2004, Lịch sử Đảng cộng sản Việt Nam, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 3, 2021ENGL2401, Tiếng Anh học phần I, 4, Tự Chọn, 4.00, A, ,Chi tiết
+ 4, 2021FRAN1129, Tiếng Việt chuyên ngành tiếng Pháp Biên phiên dịch, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 1, 2111FRAN1715, Nghe - Nói 3 (Biên phiên dịch), 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 2, 2111FRAN1056, Phương pháp dạy và học tiếng Pháp, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 3, 2111MILI2703, Quân sự chung, 2, Tự Chọn, 4.00, Ð, ,Chi tiết
+ 4, 2111ENGL2402, Tiếng Anh học phần II, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 5, 2111FRAN1022, Từ vựng tiếng Pháp, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 1, 2121FRAN1718, Đọc - Viết 4 (Biên phiên dịch), 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 2, 2121FRAN1147, Khái niệm Kinh tế cơ bản, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 3, 2121FRAN1148, Khái niệm luật cơ bản, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 4, 2121FRAN1717, Nghe - Nói 4 (Biên phiên dịch), 3, Tự Chọn, 0.00, F, ,Chi tiết
+ 5, 2121FRAN1024, Ngữ pháp tiếng Pháp 2, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 6, 2121ENGL2403, Tiếng Anh học phần III, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 7, 2121FRAN1031, Văn học Pháp, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 2211FRAN1027, Ngôn ngữ học đối chiếu Pháp - Việt, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 2, 2211FRAN1745, Thông tin thời sự 1, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 3, 2211FRAN1069, Thực hành dịch nói, 4, Bắt Buộc, 2.00, C, ,Chi tiết
+ 4, 2211FRAN1065, Thực hành dịch viết 1, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 5, 2211FRAN1054, Xây dựng kỹ năng giao tiếp nghề nghiệp, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 1, 2221FRAN1717, Nghe - Nói 4 (Biên phiên dịch), 3, Tự Chọn, , , ,Chi tiết
+ 2, 2221FRAN1070, Phiên dịch tiếp xúc, 4, Bắt Buộc, , , ,Chi tiết
+ 3, 2221FRAN1139, Thông tin thời sự 2, 2, Bắt Buộc, , , ,Chi tiết
+ 4, 2221FRAN1066, Thực hành dịch viết 2, 2, Bắt Buộc, , , ,Chi tiết
+ 5, 2221FRAN1032, Văn hóa Pháp, 2, Bắt Buộc, , , ,Chi tiết

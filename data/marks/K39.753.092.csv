@@ -1,0 +1,65 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1311LITR1003, Cơ sở văn hoá Việt Nam, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 1311FREN1012, Đọc Viết cơ sở, 4, Bắt Buộc, 4.00, A, ,Chi tiết
+ 3, 1311PHYL1003, Giáo dục thể chất 2 (Thể dục), 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 4, 1311FREN1011, Nghe Nói cơ sở, 4, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 5, 1311POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 2.00, C, ,Chi tiết
+ 6, 1311ENGL2001," Tiếng Anh ngoại ngữ 2, học phần 1", 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 7, 1311COMP1001, Tin học căn bản, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 1321MILI1102," Công tác quốc phòng, an ninh", 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 2, 1321MILI1101, Đường lối quân sự của Đảng, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 3, 1321PHYL1002, Giáo dục thể chất 1 (Điền kinh), 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 4, 1321FREN1017, Ngữ âm, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 5, 1321FREN1019, Ngữ pháp 1, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 6, 1321FREN1205, Phương pháp nghiên cứu khoa học, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 7, 1321ENGL2002," Tiếng Anh ngoại ngữ 2, học phần 2", 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 8, 1321FREN1113, Tiếng Pháp 1 (BPD), 4, Bắt Buộc, 3.00, B, ,Chi tiết
+ 9, 1321LITR1007, Tiếng Việt, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 10, 1321FREN1074, Tin học và ứng dụng trong du lịch, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 11, 1321POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 1, 1331MILI1103," Quân sự chung và chiến thuật, kỹ thuật bắn súng tiểu liên AK", 4, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 1411LITR1006, Dẫn luận ngôn ngữ học, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 2, 1411POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 3, 1411PHYL1005, Giáo dục thể chất 3 (Bóng chuyền), 1, Tự Chọn, 3.00, B, ,Chi tiết
+ 4, 1411FREN1020, Ngữ pháp 2, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 5, 1411ENGL2003," Tiếng Anh ngoại ngữ 2, học phần 3", 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 6, 1411FREN1114, Tiếng Pháp 2 (BPD), 4, Bắt Buộc, 3.00, B, ,Chi tiết
+ 7, 1411FREN1092, Tìm kiếm và xử lý thông tin trên Internet, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 1421FREN1058, Kinh tế du lịch, 2, Tự Chọn, 1.50, D+, ,Chi tiết
+ 2, 1421FREN1023, Lý luận dạy và học ngoại ngữ, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 3, 1421FREN1010, Ngôn ngữ học đối chiếu Pháp – Việt, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 4, 1421PSYC1001, Tâm lý học đại cương, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 5, 1421ENGL2004," Tiếng Anh ngoại ngữ 2, học phần 4", 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 6, 1421FREN1115, Tiếng Pháp 3 (BDP), 4, Bắt Buộc, 2.00, C, ,Chi tiết
+ 7, 1421FREN1018, Từ vựng, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 1, 1511FREN1042, Dịch nói 1, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 2, 1511FREN1041, Dịch viết 1, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 3, 1511FREN1026, Kiểm tra-đánh giá, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 4, 1511SPEC1035, Ngôn ngữ ký hiệu, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 5, 1511FREN1020, Ngữ pháp 2, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 6, 1511FREN1033, Ngữ pháp văn bản, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 7, 1511FREN1047, Nguyên tắc dịch thuật, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 8, 1511FREN1045, Thông tin thời sự 1, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 9, 1511FREN1116, Tiếng Pháp 4 (BPD), 4, Bắt Buộc, 3.00, B, ,Chi tiết
+ 10, 1511FREN1035, Văn hóa đối chiếu Pháp - Việt, 2, Tự Chọn, 0.00, F, ,Chi tiết
+ 1, 1521FREN1044, Dịch nói 2, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 2, 1521FREN1043, Dịch viết 2, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 3, 1521FREN1085, Khái niệm cơ bản về kinh tế, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 4, 1521FREN1058, Kinh tế du lịch, 2, Tự Chọn, 0.00, F, ,Chi tiết
+ 5, 1521DOMS1003, Làm bánh, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 6, 1521FRAN1055, Lý luận dạy và học ngoại ngữ, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 7, 1521FREN1046, Thông tin thời sự 2, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 8, 1521FREN1129, Tiếng Pháp 5 (BPD), 4, Tự Chọn, 2.00, C, ,Chi tiết
+ 9, 1521FREN1018, Từ vựng, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 10, 1521FREN1022, Văn hóa Pháp, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 11, 1521FREN1021, Văn học Pháp, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 1611FREN1048, Dịch nói 3, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 2, 1611FREN1088, Dịch viết (tốt nghiệp), 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 3, 1611FREN1162, Nói (Tốt nghiệp - BPD), 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 4, 1611FREN1087, Soạn thuật ngữ chuyên ngành, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 5, 1611FREN1049, Thông tin thời sự 3, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 6, 1611FREN1130, Tiếng Pháp 6 (BPD), 4, Tự Chọn, 3.00, B, ,Chi tiết
+ 7, 1611FREN1031, Tiếng Pháp du lịch 1, 4, Tự Chọn, 3.00, B, ,Chi tiết
+ 8, 1611FRAN1143, Ứng dụng CNTT và truyền thông chuyên ngành tiếng Pháp BPD, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 1, 1621FREN1159, Rèn luyện nghiệp vụ, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 2, 1621FREN1084, Thực tập cuối khóa, 6, Bắt Buộc, 4.00, A, ,Chi tiết

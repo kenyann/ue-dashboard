@@ -10,14 +10,14 @@ STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Đi�
  9, 1511POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 2.50, C+, ,Chi tiết
  10, 1511POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 2.50, C+, ,Chi tiết
  11, 1511MILI1103," Quân sự chung và chiến thuật, kỹ thuật bắn súng tiểu liên AK", 4, Bắt Buộc, 4.00, Ð, ,Chi tiết
- 12, 1511MILI1103," Quân sự chung và chiến thuật, kỹ thuật bắn súng tiểu liên AK", 4, Tự Chọn, 4.00, Ð, ,Chi tiết
+ 12, 1511MILI1103," Quân sự chung và chiến thuật, kỹ thuật bắn súng tiểu liên AK", 4, Bắt Buộc, 4.00, Ð, ,Chi tiết
  13, 1511TTTH1001, Tin học căn bản, 3, Bắt Buộc, 3.00, B, ,Chi tiết
  14, 1511TTTH1001, Tin học căn bản, 3, Tự Chọn, 3.00, B, ,Chi tiết
  15, TTTH2001, Tin học căn bản, 3, Bắt Buộc, , M, ,Chi tiết
  1, 1521ENGL1303, Đọc - Viết 2, 3, Bắt Buộc, 3.00, B, ,Chi tiết
  2, 1521ENGL1303, Đọc - Viết 2, 3, Tự Chọn, 3.00, B, ,Chi tiết
  3, 1521MILI1101, Đường lối quân sự của Đảng, 3, Bắt Buộc, 4.00, Ð, ,Chi tiết
- 4, 1521MILI1101, Đường lối quân sự của Đảng, 3, Tự Chọn, 4.00, Ð, ,Chi tiết
+ 4, 1521MILI1101, Đường lối quân sự của Đảng, 3, Bắt Buộc, 4.00, Ð, ,Chi tiết
  5, 1521PHYL1103, Giáo dục thể chất 2 (Cầu lông), 2, Tự Chọn, 3.50, B+, ,Chi tiết
  6, 1521PHYL1103, Giáo dục thể chất 2 (Cầu lông), 2, Tự Chọn, 3.50, B+, ,Chi tiết
  7, 1521ENGL1304, Nghe - Nói 2, 3, Bắt Buộc, 3.00, B, ,Chi tiết
@@ -31,7 +31,7 @@ STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Đi�
  15, 1521POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 2.00, C, ,Chi tiết
  16, 1521POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 2.00, C, ,Chi tiết
  1, 1531MILI1102," Công tác quốc phòng, an ninh", 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
- 2, 1531MILI1102," Công tác quốc phòng, an ninh", 2, Tự Chọn, 4.00, Ð, ,Chi tiết
+ 2, 1531MILI1102," Công tác quốc phòng, an ninh", 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
  3, 1531POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 3.00, B, ,Chi tiết
  4, 1531POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 3.00, B, ,Chi tiết
  5, 1531POLI1004, Logic học đại cương, 2, Tự Chọn, 3.50, B+, ,Chi tiết

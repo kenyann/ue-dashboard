@@ -1,0 +1,71 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1111MATH1020, Đại số tuyến tính 1, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 2, 1111MATH1024, Giải tích các hàm một biến, 4, Bắt Buộc, 1.00, D, ,Chi tiết
+ 3, 1111PHYL1002, Giáo dục thể chất 1 (Điền kinh), 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 4, 1111PHYL1003, Giáo dục thể chất 2 (Thể dục), 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 5, 1111MATH1023, Hình học giải tích, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 6, 1111MATH1022, Logic toán, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 7, 1111POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 1.00, D, ,Chi tiết
+ 8, 1111FLAN1001, Tiếng Anh học phần I, 4, Tự Chọn, 4.00, A, ,Chi tiết
+ 9, 1111COMP1001, Tin học căn bản, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 1121MATH1021, Đại số tuyến tính 2, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 2, 1121MATH1025, Giải tích các hàm nhiều biến, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 3, 1121MILI1001, Giáo dục quốc phòng (HP1), 2, Tự Chọn, 4.00, Ð, ,Chi tiết
+ 4, 1121MILI1002, Giáo dục quốc phòng (HP2), 2, Tự Chọn, 4.00, Ð, ,Chi tiết
+ 5, 1121MILI1003, Giáo dục quốc phòng (HP3), 2, Tự Chọn, 4.00, Ð, ,Chi tiết
+ 6, 1121MILI1004, Giáo dục quốc phòng (HP4), 2, Tự Chọn, 4.00, Ð, ,Chi tiết
+ 7, 1121PSYC1005, Phương pháp nghiên cứu khoa học, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 8, 1121PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 9, 1121FLAN1002, Tiếng Anh học phần II, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 10, 1121POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 11, 1121MATH1007, Xác suất thống kê, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 1, 1211MATH1026, Đại số đại cương 1, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 2, 1211MATH1029, Đại số sơ cấp, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 3, 1211POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 1211PHYL1004, Giáo dục thể chất 3 (Cầu lông), 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 5, 1211MATH1039, Qui hoạch tuyến tính, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 6, 1211PSYC1002, Tâm lý học lứa tuổi và Tâm lý học sư phạm, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 7, 1211FLAN1003, Tiếng Anh học phần III, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 8, 1211MATH1035, Tôpô đại cương, 3, Bắt Buộc, 1.00, D, ,Chi tiết
+ 1, 1221MATH1027, Đại số đại cương 2, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 2, 1221MATH1036, Độ đo và tích phân, 3, Bắt Buộc, 0.00, F, ,Chi tiết
+ 3, 1221PSYC1003, Giáo dục học đại cương, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 4, 1221MATH1032, Hàm một biến phức, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 5, 1221MATH1030, Hình học cao cấp, 4, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 6, 1221PSYC1048, Phương pháp học tập ở phổ thông và đại học, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 7, 1221MATH1038, Phương trình vi phân và phương trình đạo hàm riêng, 4, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 1, 1231MATH1035, Tôpô đại cương, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 1311MATH1206, Chương trình cơ bản về dạy học của Intel, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 2, 1311MATH1037, Giải tích hàm, 3, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 3, 1311PSYC1004, Giáo dục học phổ thông, 3, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 4, 1311MATH1034, Hình học vi phân, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 5, 1311MATH1042, Lý luận dạy học môn toán 1, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 6, 1311MATH1033, Lý thuyết trường, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 7, 1311MATH1028, Số luận, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 8, 1311MATH1041, Xác suất thống kê 2, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 1, 1321MATH1058, Các cơ sở của toán học phổ thông, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 2, 1321MATH1027, Đại số đại cương 2, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 3, 1321MATH1036, Độ đo và tích phân, 3, Bắt Buộc, 1.00, D, ,Chi tiết
+ 4, 1321MATH1031, Hình học sơ cấp, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 5, 1321MATH1059, Lịch sử toán, 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 6, 1321MATH1043, Lý luận dạy học môn toán 2, 4, Bắt Buộc, 2.00, C, ,Chi tiết
+ 7, 1321MATH1057, Lý thuyết tình huống, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 8, 1321MATH1038, Phương trình vi phân và phương trình đạo hàm riêng, 4, Bắt Buộc, 0.00, F, ,Chi tiết
+ 9, 1321PSYC1007, Quản lý hành chính nhà nước và Quản lý ngành giáo dục và đào tạo, 1, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 10, 1321MATH1060, Rèn luyện nghiệp vụ sư phạm, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 1, 1331MATH1036, Độ đo và tích phân, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 2, 1331MATH1037, Giải tích hàm, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 3, 1331MATH1033, Lý thuyết trường, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 4, 1331MATH1040, Phương pháp tính, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 5, 1331MATH1038, Phương trình vi phân và phương trình đạo hàm riêng, 4, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 1, 1411MATH1022, Logic toán, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 2, 1411MATH1063, Lý thuyết môđun, 3, Tự Chọn, 1.50, D+, ,Chi tiết
+ 3, 1411MATH1064, Nhập môn về đa tạp khả vi, 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 4, 1411PHYL1031, Phổ tu Bóng đá, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 5, 1411MATH1044, Thực hành dạy học toán, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 1411CHIN2001," Tiếng Trung ngoại ngữ 2, học phần 1", 3, Tự Chọn, , , ,Chi tiết
+ 7, 1411MATH1011, Toán cao cấp 1, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 8, 1411MATH1067, Xây dựng và hoạt động của kiến thức trong dạy học toán, 3, Tự Chọn, , , ,Chi tiết
+ 1, 1421MATH1063, Lý thuyết môđun, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 2, 1421MATH1038, Phương trình vi phân và phương trình đạo hàm riêng, 4, Bắt Buộc, 3.00, B, ,Chi tiết
+ 3, 1421MATH1061, Thực tập sư phạm, 6, Bắt Buộc, 4.00, A, ,Chi tiết

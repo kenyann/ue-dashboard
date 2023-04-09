@@ -1,0 +1,33 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1011FLAN1001, Tiếng Anh học phần I, 4, Tự Chọn, , , ,Chi tiết
+ 1, 1021FLAN1002, Tiếng Anh học phần II, 3, Tự Chọn, , , ,Chi tiết
+ 1, 1211EARC1029, Phương pháp giáo dục âm nhạc cho trẻ mầm non, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 2, 1211EARC1030, Phương pháp giáo dục thể chất cho trẻ mầm non, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 3, 1211EARC1026, Phương pháp phát triển ngôn ngữ cho trẻ mầm non, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 1211EARC1028, Phương pháp tổ chức hoạt động tạo hình cho trẻ mầm non, 3, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 5, 1211POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 1, 1221EARC1206, Chương trình cơ bản về dạy học của Intel, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 2, 1221PHYL1002, Giáo dục thể chất 1 (Điền kinh), 2, Tự Chọn, , , ,Chi tiết
+ 3, 1221EARC1020, Phát triển chương trình Giáo dục Mầm non, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 4, 1221EARC1027, Phương pháp làm quen tác phẩm văn học cho trẻ mầm non, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 5, 1221EARC1025, Phương pháp làm quen với toán cho trẻ mầm non, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 6, 1221EARC1042, Quản lý Giáo dục Mầm non, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 7, 1221PSYC1007, Quản lý hành chính nhà nước và Quản lý ngành giáo dục và đào tạo, 1, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 8, 1221EARC1044, Rèn luyện nghiệp vụ sư phạm 1, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 9, 1221EARC1045, Rèn luyện nghiệp vụ sư phạm 2, 2, Bắt Buộc, , , ,Chi tiết
+ 10, 1221EARC1036, Thiết kế môi trường giáo dục trong trường mầm non, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 1, 1311EARC1034, Chỉnh âm cho trẻ mầm non, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 2, 1311EARC1039, Chuẩn bị cho trẻ đến trường phổ thông, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 3, 1311PSYC1080, Đánh giá giáo dục, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 4, 1311EARC1050, Đồ chơi trẻ em, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 5, 1311POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 1311PHYL1002, Giáo dục thể chất 1 (Điền kinh), 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 7, 1311PHYL1004, Giáo dục thể chất 3 (Cầu lông), 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 8, 1311GEOG1006, Môi trường và con người, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 9, 1311EARC1024, Phương pháp khám phá khoa học xã hội, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 10, 1311EARC1028, Phương pháp tổ chức hoạt động tạo hình cho trẻ mầm non, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 11, 1311EARC1041, Thanh tra trong Giáo dục Mầm non, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 12, 1311PSYC1008, Thống kê trong khoa học xã hội, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 13, 1311EARC1048, Tổ chức hoạt động theo hướng tích hợp, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 14, 1311EARC1049, Xây dựng chương trình ca múa nhạc mầm non, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 1321EARC1046, Thực tập sư phạm, 6, Bắt Buộc, 4.00, A, ,Chi tiết

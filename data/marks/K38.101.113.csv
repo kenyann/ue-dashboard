@@ -1,0 +1,17 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1211MATH1020, Đại số tuyến tính 1, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 2, 1211MATH1024, Giải tích các hàm một biến, 4, Bắt Buộc, 0.00, F, ,Chi tiết
+ 3, 1211PHYL1003, Giáo dục thể chất 2 (Thể dục), 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 4, 1211MATH1023, Hình học giải tích, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 5, 1211MATH1022, Logic toán, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 6, 1211POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 2.00, C, ,Chi tiết
+ 7, 1211FLAN1001, Tiếng Anh học phần I, 4, Tự Chọn, 3.00, B, ,Chi tiết
+ 8, 1211COMP1001, Tin học căn bản, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 1221MATH1021, Đại số tuyến tính 2, 2, Bắt Buộc, , , ,Chi tiết
+ 2, 1221MATH1025, Giải tích các hàm nhiều biến, 3, Bắt Buộc, , , ,Chi tiết
+ 3, 1221PHYL1002, Giáo dục thể chất 1 (Điền kinh), 2, Tự Chọn, , , ,Chi tiết
+ 4, 1221MATH1205, Phương pháp nghiên cứu khoa học, 2, Bắt Buộc, , , ,Chi tiết
+ 5, 1221PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, , , ,Chi tiết
+ 6, 1221FLAN1002, Tiếng Anh học phần II, 3, Tự Chọn, , , ,Chi tiết
+ 7, 1221POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, , , ,Chi tiết
+ 8, 1221MATH1007, Xác suất thống kê, 2, Bắt Buộc, , , ,Chi tiết

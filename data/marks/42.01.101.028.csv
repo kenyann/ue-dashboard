@@ -1,0 +1,33 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, MATH1403, Giải tích hàm một biến, 4, Bắt Buộc, 3.50, R, ,Chi tiết
+ 2, MATH1405, Hình học giải tích, 2, Bắt Buộc, 4.00, R, ,Chi tiết
+ 3, 1611EDUC1400, Nhập môn nghề giáo, 1, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 3.00, R, ,Chi tiết
+ 5, MILI1103," Quân sự chung và chiến thuật, kỹ thuật bắn súng tiểu liên AK", 4, Bắt Buộc, , M, ,Chi tiết
+ 1, MILI1101, Đường lối quân sự của Đảng, 3, Bắt Buộc, , M, ,Chi tiết
+ 2, PHYL2401, Giáo dục thể chất 1 (Thể dục - Điền kinh), 1, Tự Chọn, 4.00, R, ,Chi tiết
+ 3, 1621MATH1481, Phương pháp nghiên cứu khoa học, 2, Bắt Buộc, , , ,Chi tiết
+ 4, PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 3.00, R, ,Chi tiết
+ 5, ENGL2401, Tiếng Anh học phần I, 4, Tự Chọn, 4.00, R, ,Chi tiết
+ 6, 1621TTTH1001, Tin học căn bản, 3, Bắt Buộc, 0.00, F, ,Chi tiết
+ 7, POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 3.00, R, ,Chi tiết
+ 1, 1711MATH1409, Đại số đại cương 1, 3, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 2, 1711MATH1402, Đại số tuyến tính 1, 3, Bắt Buộc, , , ,Chi tiết
+ 3, POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 4.00, R, ,Chi tiết
+ 4, PHYL2402, Giáo dục Thể chất 2 - Bóng chuyền cơ bản, 1, Tự Chọn, 4.00, R, ,Chi tiết
+ 5, PHYL2407, Giáo dục Thể chất 2 - Bóng rổ cơ bản, 1, Tự Chọn, 4.00, R, ,Chi tiết
+ 6, 1711PSYC1009, Giao tiếp sư phạm, 2, Bắt Buộc, , , ,Chi tiết
+ 7, ENGL2402, Tiếng Anh học phần II, 3, Tự Chọn, 4.00, R, ,Chi tiết
+ 8, 1711EDUC1348, Tổ chức hoạt động giáo dục ở trường phổ thông, 2, Bắt Buộc, , , ,Chi tiết
+ 9, 1711MATH1410, Tôpô đại cương, 2, Bắt Buộc, , , ,Chi tiết
+ 1, MILI1102," Công tác quốc phòng, an ninh", 2, Bắt Buộc, , M, ,Chi tiết
+ 1, 1731MATH1402, Đại số tuyến tính 1, 3, Bắt Buộc, , , ,Chi tiết
+ 1, 1811MATH1428, Đại số sơ cấp, 3, Bắt Buộc, , , ,Chi tiết
+ 2, 1811MATH1429, Hình học sơ cấp, 3, Bắt Buộc, , , ,Chi tiết
+ 3, 1811MATH1424, Lý luận dạy học đại cương môn toán, 3, Bắt Buộc, , , ,Chi tiết
+ 4, 1811MATH1416, Lý thuyết trường, 2, Bắt Buộc, , , ,Chi tiết
+ 5, 1811MATH1422, Phát triển chương trình môn toán, 2, Bắt Buộc, , , ,Chi tiết
+ 6, 1811MATH1414, Phương trình vi phân và phương trình đạo hàm riêng, 4, Bắt Buộc, , , ,Chi tiết
+ 7, 1811EDUC1348, Tổ chức hoạt động giáo dục ở trường phổ thông, 2, Bắt Buộc, , , ,Chi tiết
+ 8, 1811MATH1410, Tôpô đại cương, 2, Bắt Buộc, , , ,Chi tiết
+ 9, 1811MATH1041, Xác suất thống kê 2, 2, Bắt Buộc, , , ,Chi tiết

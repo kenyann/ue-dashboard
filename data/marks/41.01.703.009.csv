@@ -1,0 +1,202 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1511LITR1003, Cơ sở văn hoá Việt Nam, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 2, 1511LITR1003, Cơ sở văn hoá Việt Nam, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 3, 1511FRAN1011, Đọc viết cơ sở, 4, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 1511FRAN1011, Đọc viết cơ sở, 4, Tự Chọn, 3.00, B, ,Chi tiết
+ 5, 1511PHYL1101, Giáo dục thể chất 1 (Điền kinh + Thể dục), 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 6, 1511PHYL1101, Giáo dục thể chất 1 (Điền kinh + Thể dục), 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 7, 1511FRAN1001, Nghe nói cơ sở, 4, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 8, 1511FRAN1001, Nghe nói cơ sở, 4, Tự Chọn, 2.50, C+, ,Chi tiết
+ 9, 1511POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 2.00, C, ,Chi tiết
+ 10, 1511POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 2.00, C, ,Chi tiết
+ 11, 1511MILI1103," Quân sự chung và chiến thuật, kỹ thuật bắn súng tiểu liên AK", 4, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 12, 1511MILI1103," Quân sự chung và chiến thuật, kỹ thuật bắn súng tiểu liên AK", 4, Tự Chọn, 4.00, Ð, ,Chi tiết
+ 13, 1511TTTH1001, Tin học căn bản, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 14, 1511TTTH1001, Tin học căn bản, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 1521FRAN1012, Đọc - Viết 1 (SP), 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 1521FRAN1012, Đọc - Viết 1 (SP), 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 3, 1521PHYL1103, Giáo dục thể chất 2 (Cầu lông), 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 4, 1521PHYL1103, Giáo dục thể chất 2 (Cầu lông), 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 5, 1521FRAN1055, Lý luận dạy và học ngoại ngữ, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 1521FRAN1055, Lý luận dạy và học ngoại ngữ, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 7, 1521FRAN1002, Nghe - Nói 1 (SP), 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 8, 1521FRAN1002, Nghe - Nói 1 (SP), 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 9, 1521FRAN1023, Ngữ pháp tiếng Pháp 1, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 10, 1521FRAN1023, Ngữ pháp tiếng Pháp 1, 2, Tự Chọn, 1.50, D+, ,Chi tiết
+ 11, 1521POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 12, 1521POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 13, 1521FRAN1030, Phương pháp nghiên cứu khoa học chuyên ngành tiếng Pháp, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 14, 1521FRAN1030, Phương pháp nghiên cứu khoa học chuyên ngành tiếng Pháp, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 15, 1521PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 16, 1521PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 17, FLAN1301, Tiếng Anh học phần I, 4, Tự Chọn, , M, ,Chi tiết
+ 18, 1521POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 19, 1521POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 1, 1611FRAN1013, Đọc - Viết 2 SP, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 2, 1611FRAN1013, Đọc - Viết 2 SP, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 3, 1611POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 1611POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 5, 1611PSYC1003, Giáo dục học đại cương, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 6, 1611PSYC1003, Giáo dục học đại cương, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 7, 1611PHYL1107, Giáo dục thể chất 3 (Cầu lông_nâng cao), 1, Tự Chọn, 4.00, Ð, ,Chi tiết
+ 8, 1611PHYL1107, Giáo dục thể chất 3 (Cầu lông_nâng cao), 1, Tự Chọn, 4.00, Ð, ,Chi tiết
+ 9, 1611FRAN1003, Nghe - Nói 2 SP, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 10, 1611FRAN1003, Nghe - Nói 2 SP, 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 11, 1611FRAN1021, Ngữ âm tiếng Pháp, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 12, 1611FRAN1021, Ngữ âm tiếng Pháp, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 13, 1611FRAN1023, Ngữ pháp tiếng Pháp 1, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 14, 1611FRAN1023, Ngữ pháp tiếng Pháp 1, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 15, 1611FRAN1024, Ngữ pháp tiếng Pháp 2, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 16, 1611FRAN1024, Ngữ pháp tiếng Pháp 2, 2, Tự Chọn, 1.00, D, ,Chi tiết
+ 17, 1611FRAN1056, Phương pháp dạy và học tiếng Pháp, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 18, 1611FRAN1056, Phương pháp dạy và học tiếng Pháp, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 19, 1611FRAN1042, Phương pháp nghiên cứu điều tra xã hội, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 20, 1611FRAN1042, Phương pháp nghiên cứu điều tra xã hội, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 21, 1611PSYC1002, Tâm lý học lứa tuổi và Tâm lý học sư phạm, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 22, 1611PSYC1002, Tâm lý học lứa tuổi và Tâm lý học sư phạm, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 23, FLAN1302, Tiếng Anh học phần II, 3, Tự Chọn, , M, ,Chi tiết
+ 24, FLAN1303, Tiếng Anh học phần III, 3, Tự Chọn, , M, ,Chi tiết
+ 1, 1621MILI1102," Công tác quốc phòng, an ninh", 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 2, 1621MILI1102," Công tác quốc phòng, an ninh", 2, Tự Chọn, 4.00, Ð, ,Chi tiết
+ 3, 1621FRAN1014, Đọc - Viết 3 SP, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 1621FRAN1014, Đọc - Viết 3 SP, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 5, 1621PSYC1004, Giáo dục học phổ thông, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 6, 1621PSYC1004, Giáo dục học phổ thông, 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 7, 1621FRAN1004, Nghe - Nói 3 SP, 3, Bắt Buộc, 1.00, D, ,Chi tiết
+ 8, 1621FRAN1004, Nghe - Nói 3 SP, 3, Tự Chọn, 1.00, D, ,Chi tiết
+ 9, 1621FRAN1027, Ngôn ngữ học đối chiếu Pháp - Việt, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 10, 1621FRAN1027, Ngôn ngữ học đối chiếu Pháp - Việt, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 11, 1621FRAN1057, Phương pháp quan sát dự giờ, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 12, 1621FRAN1057, Phương pháp quan sát dự giờ, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 13, 1621FRAN1138, Thông tin thời sự 1, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 14, 1621FRAN1138, Thông tin thời sự 1, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 15, 1621FRAN1022, Từ vựng tiếng Pháp, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 16, 1621FRAN1022, Từ vựng tiếng Pháp, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 1, 1631MILI1101, Đường lối quân sự của Đảng, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 2, 1631MILI1101, Đường lối quân sự của Đảng, 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 1, 1711FRAN1015, Đọc - Viết 4 (SP), 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 2, 1711FRAN1015, Đọc - Viết 4 (SP), 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 3, 1711FRAN1059, Kiểm tra đánh giá KQHT môn tiếng Pháp, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 4, 1711FRAN1059, Kiểm tra đánh giá KQHT môn tiếng Pháp, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 5, 1711FRAN1005, Nghe - Nói 4 (SP), 3, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 6, 1711FRAN1005, Nghe - Nói 4 (SP), 3, Tự Chọn, 1.50, D+, ,Chi tiết
+ 7, 1711FRAN1024, Ngữ pháp tiếng Pháp 2, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 8, 1711FRAN1024, Ngữ pháp tiếng Pháp 2, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 9, 1711FRAN1060, Phát triển chương trình môn tiếng Pháp, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 10, 1711FRAN1060, Phát triển chương trình môn tiếng Pháp, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 11, 1711FRAN1032, Văn hóa Pháp, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 12, 1711FRAN1032, Văn hóa Pháp, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 13, 1711FRAN1058, Xây dựng kỹ năng giảng dạy, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 14, 1711FRAN1058, Xây dựng kỹ năng giảng dạy, 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 1, 1721FRAN1016, Đọc - Viết 5 SP, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 2, 1721FRAN1016, Đọc - Viết 5 SP, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 3, 1721FRAN1006, Nghe - Nói 5 SP, 3, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 4, 1721FRAN1006, Nghe - Nói 5 SP, 3, Tự Chọn, 1.50, D+, ,Chi tiết
+ 5, 1721FRAN1025, Ngữ pháp văn bản, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 6, 1721FRAN1025, Ngữ pháp văn bản, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 7, 1721FRAN1018, Rèn luyện nghiệp vụ SP thường xuyên, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 8, 1721FRAN1018, Rèn luyện nghiệp vụ SP thường xuyên, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 9, 1721FREN1059, Rèn luyện nghiệp vụ sư phạm, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 10, 1721FREN1059, Rèn luyện nghiệp vụ sư phạm, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 11, 1721FRAN1043, Ứng dụng CNTT trong dạy học tiếng Pháp, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 12, 1721FRAN1043, Ứng dụng CNTT trong dạy học tiếng Pháp, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 13, 1721FRAN1031, Văn học Pháp, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 14, 1721FRAN1031, Văn học Pháp, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 15, 1721FRAN1053, Xây dựng kỹ năng hội nhập nghề nghiệp, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 16, 1721FRAN1053, Xây dựng kỹ năng hội nhập nghề nghiệp, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 1731PSYC1009, Giao tiếp sư phạm, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 1731PSYC1009, Giao tiếp sư phạm, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 1811FRAN1017, Đọc - Viết 6 (SP), 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 2, 1811FRAN1017, Đọc - Viết 6 (SP), 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 3, 1811FRAN1007, Nghe - Nói 6 (SP), 3, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 4, 1811FRAN1007, Nghe - Nói 6 (SP), 3, Tự Chọn, 0.50, F+, ,Chi tiết
+ 5, 1811FRAN1083, Phân tích tác nghiệp, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 6, 1811FRAN1083, Phân tích tác nghiệp, 2, Tự Chọn, 1.50, D+, ,Chi tiết
+ 7, 1811FRAN1026, Phân tích văn bản văn học, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 8, 1811FRAN1026, Phân tích văn bản văn học, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 9, 1811FRAN1084, Thiết kế chuyên đề dạy học, 3, Tự Chọn, 1.50, D+, ,Chi tiết
+ 10, 1811FRAN1084, Thiết kế chuyên đề dạy học, 3, Tự Chọn, 1.50, D+, ,Chi tiết
+ 11, 1811FRAN1062, Thiết kế công cụ đánh giá, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 12, 1811FRAN1062, Thiết kế công cụ đánh giá, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 13, 1811FRAN1008, Tiếng Pháp nâng cao (SP), 3, Tự Chọn, 1.00, D, ,Chi tiết
+ 14, 1811FRAN1008, Tiếng Pháp nâng cao (SP), 3, Tự Chọn, 1.00, D, ,Chi tiết
+ 1, 1821FRAN1020, Thực tập sư phạm 2, 6, Bắt Buộc, 4.00, A, ,Chi tiết
+ 2, 1821FRAN1020, Thực tập sư phạm 2, 6, Tự Chọn, 4.00, A, ,Chi tiết
+ 1, 1911FRAN1007, Nghe - Nói 6 (SP), 3, Bắt Buộc, 1.00, D, ,Chi tiết
+ 2, 1911FRAN1007, Nghe - Nói 6 (SP), 3, Tự Chọn, 1.00, D, ,Chi tiết
+ 3, 1911KORE1407, Tiếng Hàn Đọc-Viết 1, 4, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 4, 1911KORE1407, Tiếng Hàn Đọc-Viết 1, 4, Tự Chọn, 3.50, B+, ,Chi tiết
+ 5, 1911KORE1406, Tiếng Hàn Nghe-Nói 1, 4, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 6, 1911KORE1406, Tiếng Hàn Nghe-Nói 1, 4, Tự Chọn, 3.50, B+, ,Chi tiết
+ 1, 1921KORE1466, Dẫn luận ngôn ngữ học, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 1921KORE1466, Dẫn luận ngôn ngữ học, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 3, 1921KORE1409, Tiếng Hàn Đọc-Viết 2, 4, Bắt Buộc, 4.00, A, ,Chi tiết
+ 4, 1921KORE1409, Tiếng Hàn Đọc-Viết 2, 4, Tự Chọn, 4.00, A, ,Chi tiết
+ 5, 1921KORE1408, Tiếng Hàn Nghe-Nói 2, 4, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 6, 1921KORE1408, Tiếng Hàn Nghe-Nói 2, 4, Tự Chọn, 3.50, B+, ,Chi tiết
+ 7, 1921KORE1449, Từ Hán-Hàn, 2, Tự Chọn, 1.50, D+, ,Chi tiết
+ 8, 1921KORE1449, Từ Hán-Hàn, 2, Tự Chọn, 1.50, D+, ,Chi tiết
+ 1, 2011KORE1467, Ngữ âm học tiếng Hàn, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 2, 2011KORE1467, Ngữ âm học tiếng Hàn, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 3, 2011KORE1411, Tiếng Hàn Đọc-Viết 3, 4, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 2011KORE1411, Tiếng Hàn Đọc-Viết 3, 4, Tự Chọn, 3.00, B, ,Chi tiết
+ 5, 2011KORE1410, Tiếng Hàn Nghe-Nói 3, 4, Bắt Buộc, 4.00, A, ,Chi tiết
+ 6, 2011KORE1410, Tiếng Hàn Nghe-Nói 3, 4, Tự Chọn, 4.00, A, ,Chi tiết
+ 7, 2011KORE1468, Từ vựng ngữ nghĩa tiếng Hàn, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 8, 2011KORE1468, Từ vựng ngữ nghĩa tiếng Hàn, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 2021KORE1469, Ngữ pháp luận tiếng Hàn, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 2, 2021KORE1469, Ngữ pháp luận tiếng Hàn, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 3, 2021KORE1413, Tiếng Hàn Đọc-Viết 4, 4, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 4, 2021KORE1413, Tiếng Hàn Đọc-Viết 4, 4, Tự Chọn, 3.50, B+, ,Chi tiết
+ 5, 2021KORE1412, Tiếng Hàn Nghe-Nói 4, 4, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 2021KORE1412, Tiếng Hàn Nghe-Nói 4, 4, Tự Chọn, 3.00, B, ,Chi tiết
+ 7, 2021KORE1501, Văn hóa doanh nghiệp Hàn Quốc, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 8, 2021KORE1501, Văn hóa doanh nghiệp Hàn Quốc, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 9, 2021KORE1447, Văn hóa Hàn Quốc, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 10, 2021KORE1447, Văn hóa Hàn Quốc, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 1, 2111KORE1453, Lý thuyết biên phiên dịch, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 2, 2111KORE1453, Lý thuyết biên phiên dịch, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 3, 2111KORE1450, Ngôn ngữ học đối chiếu, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 4, 2111KORE1450, Ngôn ngữ học đối chiếu, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 5, 2111KORE1454, Thông dịch luân phiên Hàn-Việt 1, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 6, 2111KORE1454, Thông dịch luân phiên Hàn-Việt 1, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 7, 2111KORE1456, Thông dịch luân phiên Việt-Hàn 1, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 8, 2111KORE1456, Thông dịch luân phiên Việt-Hàn 1, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 9, 2111KORE1459, Thực hành nghề nghiệp, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 10, 2111KORE1459, Thực hành nghề nghiệp, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 11, 2111KORE1415, Tiếng Hàn Đọc-Viết 5, 4, Bắt Buộc, 4.00, A, ,Chi tiết
+ 12, 2111KORE1415, Tiếng Hàn Đọc-Viết 5, 4, Tự Chọn, 4.00, A, ,Chi tiết
+ 13, 2111KORE1414, Tiếng Hàn Nghe-Nói 5, 4, Bắt Buộc, 4.00, A, ,Chi tiết
+ 14, 2111KORE1414, Tiếng Hàn Nghe-Nói 5, 4, Tự Chọn, 4.00, A, ,Chi tiết
+ 1, 2121KORE1463, Biên dịch hành chính văn phòng Hàn Việt và Việt Hàn, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 2, 2121KORE1463, Biên dịch hành chính văn phòng Hàn Việt và Việt Hàn, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 3, 2121KORE1464, Biên dịch văn hóa xã hội Hàn Việt và Việt Hàn, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 4, 2121KORE1464, Biên dịch văn hóa xã hội Hàn Việt và Việt Hàn, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 5, 2121KORE1455, Thông dịch luân phiên Hàn-Việt 2, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 6, 2121KORE1455, Thông dịch luân phiên Hàn-Việt 2, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 7, 2121KORE1457, Thông dịch luân phiên Việt Hàn 2, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 8, 2121KORE1457, Thông dịch luân phiên Việt Hàn 2, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 9, 2121KORE1460, Thực tập nghề nghiệp 1, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 10, 2121KORE1460, Thực tập nghề nghiệp 1, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 11, 2121KORE1417, Tiếng Hàn Đọc-Viết 6, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 12, 2121KORE1417, Tiếng Hàn Đọc-Viết 6, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 13, 2121KORE1416, Tiếng Hàn Nghe-Nói 6, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 14, 2121KORE1416, Tiếng Hàn Nghe-Nói 6, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 15, 2121KORE1448, Văn học Hàn Quốc, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 16, 2121KORE1448, Văn học Hàn Quốc, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 1, 2211KORE1472, Dịch văn bản Hàn-Việt và Việt-Hàn, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 2, 2211KORE1472, Dịch văn bản Hàn-Việt và Việt-Hàn, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 3, 2211KORE1458, Giao tiếp liên văn hóa, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 4, 2211KORE1458, Giao tiếp liên văn hóa, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 5, 2211KORE1474, Giao tiếp và ứng xử trong phiên dịch, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 6, 2211KORE1474, Giao tiếp và ứng xử trong phiên dịch, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 7, 2211KORE1419, Tiếng Hàn Đọc-Viết nâng cao, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 8, 2211KORE1419, Tiếng Hàn Đọc-Viết nâng cao, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 9, 2211KORE1418, Tiếng Hàn Nghe-Nói nâng cao, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 10, 2211KORE1418, Tiếng Hàn Nghe-Nói nâng cao, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 2221POLI2003, Chủ nghĩa xã hội khoa học, 2, Tự Chọn, , , ,Chi tiết
+ 2, 2221POLI2003, Chủ nghĩa xã hội khoa học, 2, Tự Chọn, , , ,Chi tiết
+ 3, 2221KORE1401, Phương pháp nghiên cứu khoa học, 2, Bắt Buộc, , , ,Chi tiết
+ 4, 2221KORE1401, Phương pháp nghiên cứu khoa học, 2, Tự Chọn, , , ,Chi tiết
+ 5, 2221KORE1461, Thực tập nghề nghiệp 2, 6, Bắt Buộc, , , ,Chi tiết
+ 6, 2221KORE1461, Thực tập nghề nghiệp 2, 6, Tự Chọn, , , ,Chi tiết

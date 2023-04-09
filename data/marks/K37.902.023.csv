@@ -1,0 +1,60 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1111PHYL1003, Giáo dục thể chất 2 (Thể dục), 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 2, 1111DOMS1003, Làm bánh, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 3, 1111EARC1001, Mỹ thuật cơ bản, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 4, 1111POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 3.00, B, ,Chi tiết
+ 5, 1111EARC1011, Sinh lý đại cương và Sinh lý trẻ em, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 6, 1111PSYC1001, Tâm lý học đại cương, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 7, 1111FLAN1001, Tiếng Anh học phần I, 4, Tự Chọn, 2.00, C, ,Chi tiết
+ 8, 1111PRIM1005, Tiếng Việt trong giáo dục mầm non, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 9, 1111PRIM1003, Toán cơ sở trong giáo dục mầm non, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 1, 1121EARC1002, Âm nhạc cơ bản, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 2, 1121EARC1022, Dinh dưỡng trẻ em, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 3, 1121PSYC1003, Giáo dục học đại cương, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 4, 1121MILI1001, Giáo dục quốc phòng (HP1), 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 5, 1121MILI1002, Giáo dục quốc phòng (HP2), 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 6, 1121MILI1003, Giáo dục quốc phòng (HP3), 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 7, 1121MILI1004, Giáo dục quốc phòng (HP4), 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 8, 1121PHYL1002-8, Giáo dục thể chất 1 (Điền kinh), 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 9, 1121DOMS1005, Làm hoa giấy nâng cao, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 10, 1121PSYC1005, Phương pháp nghiên cứu khoa học, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 11, 1121EARC1016, Tâm lý học mầm non 1, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 12, 1121FLAN1002, Tiếng Anh học phần II, 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 13, 1121COMP1001, Tin học căn bản, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 14, 1121POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 1, 1211EARC1013, Âm nhạc mầm non, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 2, 1211POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 3, 1211PHYL1005, Giáo dục thể chất 3 (Bóng chuyền), 1, Tự Chọn, 3.00, B, ,Chi tiết
+ 4, 1211EARC1010, Múa cơ bản, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 5, 1211EARC1012, Mỹ thuật mầm non, 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 6, 1211EARC1017, Tâm lý học mầm non 2, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 7, 1211FLAN1003, Tiếng Anh học phần III, 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 1, 1221EARC1037, Gia đình cộng đồng và trẻ thơ, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 2, 1221EARC1018, Giáo dục học mầm non, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 3, 1221EARC1015, Hướng dẫn trẻ em vẽ, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 4, 1221EARC1021, Lý luận dạy học mầm non, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 5, 1221EARC1014, Múa nâng cao, 3, Tự Chọn, 4.00, A, ,Chi tiết
+ 6, 1221EARC1020, Phát triển chương trình Giáo dục Mầm non, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 7, 1221EARC1044, Rèn luyện nghiệp vụ sư phạm 1, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 8, 1221PRIM1001, Văn học thiếu nhi, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 9, 1221EARC1023, Vệ sinh - bệnh học trẻ em, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 1, 1311EARC1206, Chương trình cơ bản về dạy học của Intel, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 2, 1311EARC1030, Phương pháp giáo dục thể chất cho trẻ mầm non, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 3, 1311EARC1024, Phương pháp khám phá khoa học xã hội, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 4, 1311EARC1025, Phương pháp làm quen với toán cho trẻ mầm non, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 5, 1311EARC1026, Phương pháp phát triển ngôn ngữ cho trẻ mầm non, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 6, 1311EARC1028, Phương pháp tổ chức hoạt động tạo hình cho trẻ mầm non, 3, Bắt Buộc, 3.00, B, ,Chi tiết
+ 1, 1321EARC1033, Giao tiếp sư phạm mầm non, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 2, 1321EARC1029, Phương pháp giáo dục âm nhạc cho trẻ mầm non, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 3, 1321EARC1027, Phương pháp làm quen tác phẩm văn học cho trẻ mầm non, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 4, 1321EARC1042, Quản lý Giáo dục Mầm non, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 5, 1321PSYC1007, Quản lý hành chính nhà nước và Quản lý ngành giáo dục và đào tạo, 1, Bắt Buộc, 2.00, C, ,Chi tiết
+ 6, 1321EARC1045, Rèn luyện nghiệp vụ sư phạm 2, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 7, 1321EARC1019, Tổ chức hoạt động vui chơi, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 1411EARC1038, Đánh giá trong giáo dục mầm non, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 2, 1411EARC1031, Phương pháp tìm kiếm và sử dụng các nguồn tư liệu trong dạy học mầm non, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 3, 1411EARC1047, Sơ cấp cứu và đề phòng một số tai nạn thường gặp ở trẻ em, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 4, 1411EARC1041, Thanh tra trong Giáo dục Mầm non, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 5, 1411EARC1049, Xây dựng chương trình ca múa nhạc mầm non, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 6, 1411EARC1035, Xây dựng khẩu phần ăn cho trẻ mầm non, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 1, 1421EARC1046, Thực tập sư phạm, 6, Bắt Buộc, 4.00, A, ,Chi tiết

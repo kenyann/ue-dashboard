@@ -10,9 +10,10 @@ STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Đi�
  4, 1721PHYL2403, Giáo dục Thể chất 2 - Cầu lông cơ bản, 1, Tự Chọn, 1.00, D, ,Chi tiết
  5, 1721ENGL1461, Nghe - Nói Thương mại 1, 4, Bắt Buộc, 3.50, B+, ,Chi tiết
  6, 1721POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 1.00, D, ,Chi tiết
- 7, 1721TTTH1001, Tin học căn bản, 3, Bắt Buộc, 2.00, C, ,Chi tiết
- 8, 1721POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 3.00, B, ,Chi tiết
- 9, 1721ENGL1428, Ứng dụng CNTT trong dạy học và dịch thuật tiếng Anh, 3, Bắt Buộc, 4.00, A, ,Chi tiết
+ 7, JAPN2401, Tiếng Nhật học phần I, 4, Tự Chọn, , M, ,Chi tiết
+ 8, 1721TTTH1001, Tin học căn bản, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 9, 1721POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 10, 1721ENGL1428, Ứng dụng CNTT trong dạy học và dịch thuật tiếng Anh, 3, Bắt Buộc, 4.00, A, ,Chi tiết
  1, 1731MILI2403," Quân sự chung, chiến thuật, kỹ thuật bắn súng ngắn và sử dụng lựu đạn", 4, Bắt Buộc, 4.00, Ð, ,Chi tiết
  1, 1811ENGL1467, Đọc - Viết Thương mại 2, 4, Bắt Buộc, 3.50, B+, ,Chi tiết
  2, 1811POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
@@ -20,13 +21,15 @@ STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Đi�
  4, 1811ENGL1474, Lý thuyết dịch thương mại, 3, Tự Chọn, 3.00, B, ,Chi tiết
  5, 1811ENGL1462, Nghe - Nói Thương mại 2, 4, Bắt Buộc, 3.50, B+, ,Chi tiết
  6, 1811ENGL1411, Ngôn Ngữ học 1, 3, Bắt Buộc, 0.50, F+, ,Chi tiết
- 7, 1811ENGL1472, Văn phạm thương mại, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 7, JAPN2402, Tiếng Nhật học phần II, 3, Tự Chọn, , M, ,Chi tiết
+ 8, 1811ENGL1472, Văn phạm thương mại, 3, Tự Chọn, 3.00, B, ,Chi tiết
  1, 1821ENGL1468, Đọc - Viết Thương mại 3, 3, Bắt Buộc, 4.00, A, ,Chi tiết
  2, 1821MILI2404," Hiểu biết chung về quân, binh chủng", 1, Bắt Buộc, 4.00, Ð, ,Chi tiết
  3, 1821ENGL1463, Nghe - Nói Thương mại 3, 3, Bắt Buộc, 3.00, B, ,Chi tiết
  4, 1821ENGL1412, Ngôn ngữ học 2, 3, Bắt Buộc, 2.00, C, ,Chi tiết
- 5, 1821ENGL1475, Tổng quan thương mại, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
- 6, 1821ENGL1413, Văn học Anh, 3, Bắt Buộc, 1.00, D, ,Chi tiết
+ 5, JAPN2403, Tiếng Nhật học phần III, 3, Tự Chọn, , M, ,Chi tiết
+ 6, 1821ENGL1475, Tổng quan thương mại, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 7, 1821ENGL1413, Văn học Anh, 3, Bắt Buộc, 1.00, D, ,Chi tiết
  1, 1831PSYC1493, Kỹ năng thích ứng và giải quyết vấn đề, 2, Tự Chọn, 3.50, B+, ,Chi tiết
  1, 1911ENGL1469, Đọc - Viết Thương mại 4, 3, Bắt Buộc, 3.00, B, ,Chi tiết
  2, 1911ENGL1464, Nghe - Nói Thương mại 4, 3, Bắt Buộc, 3.50, B+, ,Chi tiết

@@ -1,0 +1,32 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1111PHYL1003, Giáo dục thể chất 2 (Thể dục), 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 2, 1111DOMS1003, Làm bánh, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 3, 1111EARC1001, Mỹ thuật cơ bản, 3, Bắt Buộc, , , ,Chi tiết
+ 4, 1111POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 2.00, C, ,Chi tiết
+ 5, 1111EARC1011, Sinh lý đại cương và Sinh lý trẻ em, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 6, 1111PSYC1001, Tâm lý học đại cương, 2, Tự Chọn, 1.00, D, ,Chi tiết
+ 7, 1111FLAN1001, Tiếng Anh học phần I, 4, Tự Chọn, , , ,Chi tiết
+ 8, 1111PRIM1005, Tiếng Việt trong giáo dục mầm non, 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 9, 1111PRIM1003, Toán cơ sở trong giáo dục mầm non, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 1, 1121EARC1002, Âm nhạc cơ bản, 3, Bắt Buộc, 0.00, F, ,Chi tiết
+ 2, 1121EARC1022, Dinh dưỡng trẻ em, 2, Bắt Buộc, , , ,Chi tiết
+ 3, 1121PSYC1003, Giáo dục học đại cương, 2, Tự Chọn, 0.00, F, ,Chi tiết
+ 4, 1121MILI1001, Giáo dục quốc phòng (HP1), 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 5, 1121MILI1002, Giáo dục quốc phòng (HP2), 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 6, 1121MILI1003, Giáo dục quốc phòng (HP3), 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 7, 1121MILI1004, Giáo dục quốc phòng (HP4), 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 8, 1121PHYL1002-8, Giáo dục thể chất 1 (Điền kinh), 2, Tự Chọn, 0.50, F+, ,Chi tiết
+ 9, 1121PSYC1005, Phương pháp nghiên cứu khoa học, 2, Tự Chọn, , , ,Chi tiết
+ 10, 1121EARC1016, Tâm lý học mầm non 1, 3, Bắt Buộc, 0.00, F, ,Chi tiết
+ 11, 1121FLAN1002, Tiếng Anh học phần II, 3, Tự Chọn, 0.00, F, ,Chi tiết
+ 12, 1121COMP1001, Tin học căn bản, 3, Bắt Buộc, , , ,Chi tiết
+ 13, 1121POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, , , ,Chi tiết
+ 1, 1211EARC1013, Âm nhạc mầm non, 3, Tự Chọn, , , ,Chi tiết
+ 2, 1211POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, , , ,Chi tiết
+ 3, 1211PHYL1004, Giáo dục thể chất 3 (Cầu lông), 1, Tự Chọn, , , ,Chi tiết
+ 4, 1211EARC1010, Múa cơ bản, 3, Bắt Buộc, , , ,Chi tiết
+ 5, 1211EARC1012, Mỹ thuật mầm non, 3, Tự Chọn, , , ,Chi tiết
+ 6, 1211FLAN1001, Tiếng Anh học phần I, 4, Tự Chọn, , , ,Chi tiết
+ 7, 1211COMP1001, Tin học căn bản, 3, Bắt Buộc, , , ,Chi tiết
+ 8, 1211POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, , , ,Chi tiết
+ 1, 1221EARC1044, Rèn luyện nghiệp vụ sư phạm 1, 2, Bắt Buộc, 0.00, F, ,Chi tiết

@@ -1,0 +1,65 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1011LITR1003, Cơ sở văn hoá Việt Nam, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 2, 1011FREN1012, Đọc Viết cơ sở, 4, Bắt Buộc, 3.00, B, ,Chi tiết
+ 3, 1011PHYL1002, Giáo dục thể chất 1 (Điền kinh), 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 4, 1011FREN1011, Nghe Nói cơ sở, 4, Bắt Buộc, 4.00, A, ,Chi tiết
+ 5, 1011FREN1017, Ngữ âm, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 1011POLI1901, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin HP1, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 7, 1011ENGL2001," Tiếng Anh ngoại ngữ 2, học phần 1", 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 8, 1011COMP1001, Tin học căn bản, 3, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 1, 1021PHYL1003, Giáo dục thể chất 2 (Thể dục), 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 2, 1021FREN1023, Lý luận dạy và học ngoại ngữ, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 3, 1021FREN1019, Ngữ pháp 1, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 4, 1021POLI1902, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin HP2, 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 5, 1021PSYC1005, Phương pháp nghiên cứu khoa học, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 6, 1021PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 7, 1021ENGL2002," Tiếng Anh ngoại ngữ 2, học phần 2", 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 8, 1021FREN1013, Tiếng Pháp 1 (SP), 4, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 9, 1021LITR1007, Tiếng Việt, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 1, 1111FREN1024, Các phương pháp và kỹ thuật dạy và học tiếng Pháp, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 2, 1111LITR1006, Dẫn luận ngôn ngữ học, 2, Bắt Buộc, 0.00, F, ,Chi tiết
+ 3, 1111POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 4, 1111PHYL1004-8, Giáo dục thể chất 3 (Cầu lông), 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 5, 1111FREN1020, Ngữ pháp 2, 2, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 6, 1111PSYC1002, Tâm lý học lứa tuổi và Tâm lý học sư phạm, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 7, 1111ENGL2003," Tiếng Anh ngoại ngữ 2, học phần 3", 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 8, 1111FREN1014, Tiếng Pháp 2 (SP), 4, Bắt Buộc, 2.00, C, ,Chi tiết
+ 9, 1111FREN1072, Tổng quan du lịch, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 1, 1121PSYC1003, Giáo dục học đại cương, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 2, 1121FREN1054, Lịch sử và du lịch, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 3, 1121FREN1010, Ngôn ngữ học đối chiếu Pháp – Việt, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 4, 1121FREN1019, Ngữ pháp 1, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 5, 1121FREN1040, Phương pháp nghiên cứu điều tra xã hội, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 6, 1121FREN1025, Quản lý chương trình và tài liệu giảng dạy, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 7, 1121ENGL2004," Tiếng Anh ngoại ngữ 2, học phần 4", 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 8, 1121FREN1015, Tiếng Pháp 3 (SP), 4, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 9, 1121FREN1018, Từ vựng, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 1, 1211LITR1006, Dẫn luận ngôn ngữ học, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 2, 1211PSYC1004, Giáo dục học phổ thông, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 3, 1211FREN1026, Kiểm tra-đánh giá, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 1211FREN1020, Ngữ pháp 2, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 5, 1211FREN1016, Tiếng Pháp 4 (SP), 4, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 6, 1211FREN1031, Tiếng Pháp du lịch 1, 4, Tự Chọn, 3.00, B, ,Chi tiết
+ 7, 1211COMP1001, Tin học căn bản, 3, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 8, 1211POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 9, 1211FREN1027, Xây dựng kỹ năng giảng dạy, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 1, 1221FREN1206, Chương trình cơ bản về dạy học của Intel, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 2, 1221FREN1086, Luật du lịch, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 3, 1221PSYC1007, Quản lý hành chính nhà nước và Quản lý ngành giáo dục và đào tạo, 1, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 4, 1221FREN1059, Rèn luyện nghiệp vụ sư phạm, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 5, 1221FREN1015, Tiếng Pháp 3 (SP), 4, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 6, 1221FREN1029, Tiếng Pháp 5 (SP), 4, Tự Chọn, 2.00, C, ,Chi tiết
+ 7, 1221FREN1074, Tin học và ứng dụng trong du lịch, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 8, 1221FREN1022, Văn hóa Pháp, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 9, 1221FREN1021, Văn học Pháp, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 1, 1311FREN1064, Lý luận đánh giá trong giáo dục, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 2, 1311FREN1056, Nghiệp vụ hướng dẫn du lịch, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 3, 1311FREN1020, Ngữ pháp 2, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 4, 1311FREN1062, Nói (tốt nghiệp - SP), 3, Tự Chọn, 1.50, D+, ,Chi tiết
+ 5, 1311FREN1028, Phân tích tác nghiệp, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 1311FREN1055, Thuyết minh du lịch TP.HCM, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 7, 1311FREN1078, Tiếng Anh du lịch 1, 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 8, 1311FREN1016, Tiếng Pháp 4 (SP), 4, Bắt Buộc, 2.00, C, ,Chi tiết
+ 1, 1321FREN1062, Nói (tốt nghiệp - SP), 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 2, 1321FREN1060, Thực tập sư phạm, 6, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 3, 1321FREN1021, Văn học Pháp, 2, Bắt Buộc, 2.00, C, ,Chi tiết

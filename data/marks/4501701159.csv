@@ -19,13 +19,15 @@ STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Đi�
  9, 1921ENGL1402, Nghe - Nói 2, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
  10, 1921MILI2403," Quân sự chung, chiến thuật, kỹ thuật bắn súng ngắn và sử dụng lựu đạn", 4, Bắt Buộc, 3.50, Ð, ,Chi tiết
  11, 1921PSYC1400, Tâm lý học giáo dục, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 12, CHIN2401, Tiếng Trung học phần I, 4, Tự Chọn, , M, ,Chi tiết
  1, 2011ENGL1408, Đọc - Viết 3, 3, Bắt Buộc, 3.00, B, ,Chi tiết
  2, 2011PHYL2417, Giáo dục Thể chất 3 - Bóng đá nâng cao, 1, Tự Chọn, 4.00, A, ,Chi tiết
  3, 2011PSYC1490, Kỹ năng quản lý thời gian và giải quyết vấn đề của giáo viên, 2, Tự Chọn, 4.00, A, ,Chi tiết
  4, 2011ENGL1403, Nghe - Nói 3, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
  5, 2011ENGL1411, Ngôn Ngữ học 1, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
- 6, 2011EDUC1348, Tổ chức hoạt động giáo dục ở trường phổ thông, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
- 7, 2011POLI2005, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 6, CHIN2402, Tiếng Trung học phần II, 3, Tự Chọn, , M, ,Chi tiết
+ 7, 2011EDUC1348, Tổ chức hoạt động giáo dục ở trường phổ thông, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 8, 2011POLI2005, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
  1, 2021ENGL1501, Đánh giá thường xuyên, 2, Bắt Buộc, 3.00, B, ,Chi tiết
  2, 2021ENGL1409, Đọc - Viết 4, 3, Bắt Buộc, 4.00, A, ,Chi tiết
  3, 2021PSYC1492, Kỹ năng tư duy sáng tạo của giáo viên trong hoạt động sư phạm, 2, Tự Chọn, 3.50, B+, ,Chi tiết
@@ -34,6 +36,7 @@ STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Đi�
  6, 2021ENGL1404, Nghe - Nói 4, 3, Bắt Buộc, 4.00, A, ,Chi tiết
  7, 2021ENGL1412, Ngôn ngữ học 2, 3, Bắt Buộc, 2.50, C+, ,Chi tiết
  8, 2021ENGL1434, Rèn luyện nghiệp vụ sư phạm thường xuyên, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 9, CHIN2403, Tiếng Trung học phần III, 3, Tự Chọn, , M, ,Chi tiết
  1, 2111ENGL1410, Đọc - Viết 5, 3, Bắt Buộc, 3.00, B, ,Chi tiết
  2, 2111PSYC1491, Kỹ năng quản lý cảm xúc và giải quyết mâu thuẫn của giáo viên, 2, Tự Chọn, 3.50, B+, ,Chi tiết
  3, 2111ENGL1432, Lý luận và phương pháp giảng dạy tiếng Anh 2, 4, Bắt Buộc, 3.00, B, ,Chi tiết

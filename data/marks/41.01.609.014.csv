@@ -1,0 +1,205 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 1511EDUC1302, Đại cương về khoa học quản lý, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 2, 1511EDUC1302, Đại cương về khoa học quản lý, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 3, 1511EDUC1303, Giáo dục giá trị, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 4, 1511EDUC1303, Giáo dục giá trị, 2, Tự Chọn, 1.50, D+, ,Chi tiết
+ 5, 1511PHYL1101, Giáo dục thể chất 1 (Điền kinh + Thể dục), 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 6, 1511PHYL1101, Giáo dục thể chất 1 (Điền kinh + Thể dục), 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 7, 1511EDUC1301, Hệ thống giáo dục quốc dân và kế hoạch hóa phát triển giáo dục, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 8, 1511EDUC1301, Hệ thống giáo dục quốc dân và kế hoạch hóa phát triển giáo dục, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 9, 1511EDUC1300, Lý thuyết hệ thống và điều khiển học, 1, Tự Chọn, 2.00, C, ,Chi tiết
+ 10, 1511EDUC1300, Lý thuyết hệ thống và điều khiển học, 1, Tự Chọn, 2.00, C, ,Chi tiết
+ 11, 1511POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 12, 1511POLI1001, Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin, 5, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 13, 1511POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 14, 1511POLI1903, Pháp luật đại cương, 2, Tự Chọn, 1.50, D+, ,Chi tiết
+ 15, 1511TTTH1001, Tin học căn bản, 3, Bắt Buộc, 0.00, F, ,Chi tiết
+ 16, 1511TTTH1001, Tin học căn bản, 3, Tự Chọn, 0.00, F, ,Chi tiết
+ 1, 1521EDUC1306, Chiến lược phát triển giáo dục, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 2, 1521EDUC1306, Chiến lược phát triển giáo dục, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 3, 1521EDUC1326, Giáo dục kỹ năng sống, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 4, 1521EDUC1326, Giáo dục kỹ năng sống, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 5, 1521PHYL1103, Giáo dục thể chất 2 (Cầu lông), 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 6, 1521PHYL1103, Giáo dục thể chất 2 (Cầu lông), 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 7, 1521EDUC1305, Lịch sử các tư tưởng giáo dục, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 8, 1521EDUC1305, Lịch sử các tư tưởng giáo dục, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 9, 1521EDUC1304, Phương Pháp nghiên cứu khoa học giáo dục, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 10, 1521EDUC1304, Phương Pháp nghiên cứu khoa học giáo dục, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 11, 1521MILI1103," Quân sự chung và chiến thuật, kỹ thuật bắn súng tiểu liên AK", 4, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 12, 1521MILI1103," Quân sự chung và chiến thuật, kỹ thuật bắn súng tiểu liên AK", 4, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 13, 1521PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 14, 1521PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 15, 1521POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 16, 1521POLI1003, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 1, 1611LITR1003, Cơ sở văn hoá Việt Nam, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 2, 1611LITR1003, Cơ sở văn hoá Việt Nam, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 3, 1611POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 4, 1611POLI1002, Đường lối cách mạng của Đảng Cộng sản Việt Nam, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 5, 1611EDUC1041, Giáo dục gia đình, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 6, 1611EDUC1041, Giáo dục gia đình, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 7, 1611PSYC1003, Giáo dục học đại cương, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 8, 1611PSYC1003, Giáo dục học đại cương, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 9, 1611PHYL1107, Giáo dục thể chất 3 (Cầu lông_nâng cao), 1, Tự Chọn, 3.00, B, ,Chi tiết
+ 10, 1611PHYL1107, Giáo dục thể chất 3 (Cầu lông_nâng cao), 1, Tự Chọn, 3.00, B, ,Chi tiết
+ 11, 1611EDUC1330, Hoạt động nhóm và kỹ năng truyền thông, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 12, 1611EDUC1330, Hoạt động nhóm và kỹ năng truyền thông, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 13, 1611EDUC1331, Logic học, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 14, 1611EDUC1331, Logic học, 2, Tự Chọn, 1.50, D+, ,Chi tiết
+ 15, 1611LITR1029, Phong cách học tiếng Việt, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 16, 1611LITR1029, Phong cách học tiếng Việt, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 17, 1611PSYC1002, Tâm lý học lứa tuổi và Tâm lý học sư phạm, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 18, 1611PSYC1002, Tâm lý học lứa tuổi và Tâm lý học sư phạm, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 19, 1611EDUC1307, Tâm lý học nhân cách, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 20, 1611EDUC1307, Tâm lý học nhân cách, 2, Tự Chọn, 1.00, D, ,Chi tiết
+ 21, 1611EDUC1329, Tâm lý học xã hội, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 22, 1611EDUC1329, Tâm lý học xã hội, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 1, 1621MILI1102," Công tác quốc phòng, an ninh", 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 2, 1621MILI1102," Công tác quốc phòng, an ninh", 2, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 3, 1621MILI1101, Đường lối quân sự của Đảng, 3, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 4, 1621MILI1101, Đường lối quân sự của Đảng, 3, Bắt Buộc, 4.00, Ð, ,Chi tiết
+ 5, 1621PSYC1004, Giáo dục học phổ thông, 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 6, 1621PSYC1004, Giáo dục học phổ thông, 3, Tự Chọn, 2.50, C+, ,Chi tiết
+ 7, 1621EDUC1022, Giao tiếp và ứng xử sư phạm, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 8, 1621EDUC1022, Giao tiếp và ứng xử sư phạm, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 9, 1621EDUC1309, Khoa học quản lý giáo dục, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 10, 1621EDUC1309, Khoa học quản lý giáo dục, 2, Tự Chọn, 1.50, D+, ,Chi tiết
+ 11, 1621EDUC1324, Phương pháp học tập tích cực, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 12, 1621EDUC1324, Phương pháp học tập tích cực, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 13, 1621EDUC1317, Quản lý nhân sự trong giáo dục, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 14, 1621EDUC1317, Quản lý nhân sự trong giáo dục, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 15, 1621EDUC1308, Tâm lý học quản lý, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 16, 1621EDUC1308, Tâm lý học quản lý, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 17, 1621PSYC1219, Tâm lý học sáng tạo, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 18, 1621PSYC1219, Tâm lý học sáng tạo, 3, Tự Chọn, 3.50, B+, ,Chi tiết
+ 19, 1621PSYC1033, Tâm lý học tình cảm - ý chí, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 20, 1621PSYC1033, Tâm lý học tình cảm - ý chí, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 21, 1621ENGL2401, Tiếng Anh học phần I, 4, Tự Chọn, 2.00, C, ,Chi tiết
+ 22, 1621ENGL2401, Tiếng Anh học phần I, 4, Tự Chọn, 2.00, C, ,Chi tiết
+ 23, 1621EDUC1334, Xã hội học giáo dục, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 24, 1621EDUC1334, Xã hội học giáo dục, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 1, 1711EDUC1206, Chương trình cơ bản về dạy học của Intel, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 1711EDUC1206, Chương trình cơ bản về dạy học của Intel, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 3, 1711EDUC1080, Đánh giá giáo dục, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 4, 1711EDUC1080, Đánh giá giáo dục, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 5, 1711EDUC1303, Giáo dục giá trị, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 6, 1711EDUC1303, Giáo dục giá trị, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 7, 1711EDUC1338, Giáo dục hướng nghiệp, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 8, 1711EDUC1338, Giáo dục hướng nghiệp, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 9, 1711EDUC1314, Hệ thống thông tin trong quản lý giáo dục, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 10, 1711EDUC1314, Hệ thống thông tin trong quản lý giáo dục, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 11, 1711EDUC1066, Kế hoạch hóa phát triển giáo dục, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 12, 1711EDUC1066, Kế hoạch hóa phát triển giáo dục, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 13, 1711EDUC1322, Kiểm tra và thanh tra trong giáo dục, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 14, 1711EDUC1322, Kiểm tra và thanh tra trong giáo dục, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 15, 1711EDUC1077, Nghiệp vụ quản lý hành chính trong các cơ sở giáo dục, 1, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 16, 1711EDUC1077, Nghiệp vụ quản lý hành chính trong các cơ sở giáo dục, 1, Tự Chọn, 3.50, B+, ,Chi tiết
+ 17, 1711EDUC1313, Nhân cách và lao động của người cán bộ quản lý giáo dục, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 18, 1711EDUC1313, Nhân cách và lao động của người cán bộ quản lý giáo dục, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 19, 1711EDUC1400, Nhập môn nghề giáo, 1, Bắt Buộc, 3.00, B, ,Chi tiết
+ 20, 1711EDUC1400, Nhập môn nghề giáo, 1, Tự Chọn, 3.00, B, ,Chi tiết
+ 21, 1711LITR1488, Phân tích và phát triển chương trình Ngữ văn, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 22, 1711LITR1488, Phân tích và phát triển chương trình Ngữ văn, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 23, 1711EDUC1312, Quản lý trường học và cơ sở giáo dục, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 24, 1711EDUC1312, Quản lý trường học và cơ sở giáo dục, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 25, 1711PSYC1121, Tâm lý học khách hàng, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 26, 1711PSYC1121, Tâm lý học khách hàng, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 27, 1711PSYC1119, Tâm lý học quảng cáo, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 28, 1711PSYC1119, Tâm lý học quảng cáo, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 29, 1711ENGL2402, Tiếng Anh học phần II, 3, Tự Chọn, 1.00, D, ,Chi tiết
+ 30, 1711ENGL2402, Tiếng Anh học phần II, 3, Tự Chọn, 1.00, D, ,Chi tiết
+ 31, 1711LITR1453, Từ vựng – Ngữ nghĩa – Ngữ dụng học tiếng Việt, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 32, 1711LITR1453, Từ vựng – Ngữ nghĩa – Ngữ dụng học tiếng Việt, 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 33, 1711EDUC1074, Văn bản và quản lý văn bản giáo dục, 1, Bắt Buộc, 2.00, C, ,Chi tiết
+ 34, 1711EDUC1074, Văn bản và quản lý văn bản giáo dục, 1, Tự Chọn, 2.00, C, ,Chi tiết
+ 1, 1721EDUC1062, Cơ sở pháp lý của quản lý giáo dục và trường học, 1, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 2, 1721EDUC1062, Cơ sở pháp lý của quản lý giáo dục và trường học, 1, Tự Chọn, 2.50, C+, ,Chi tiết
+ 3, 1721EDUC1323, Đảm bảo chất lượng giáo dục, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 1721EDUC1323, Đảm bảo chất lượng giáo dục, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 5, 1721EDUC1318, Quản lý cơ sở vật chất trường học, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 6, 1721EDUC1318, Quản lý cơ sở vật chất trường học, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 7, 1721EDUC1007, Quản lý hành chính nhà nước và Quản lý ngành giáo dục và đào tạo, 1, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 8, 1721EDUC1007, Quản lý hành chính nhà nước và Quản lý ngành giáo dục và đào tạo, 1, Tự Chọn, 2.50, C+, ,Chi tiết
+ 9, 1721EDUC1319, Quản lý hoạt động phối hợp các lực lượng giáo dục, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 10, 1721EDUC1319, Quản lý hoạt động phối hợp các lực lượng giáo dục, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 11, 1721EDUC1073, Quản lý hoạt động sư phạm, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 12, 1721EDUC1073, Quản lý hoạt động sư phạm, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 13, 1721EDUC1099, Rèn luyện nghiệp vụ quản lý giáo dục, 2, Bắt Buộc, 4.00, A, ,Chi tiết
+ 14, 1721EDUC1099, Rèn luyện nghiệp vụ quản lý giáo dục, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 15, 1721LITR1460, Văn học hiện đại Việt Nam I, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 16, 1721LITR1460, Văn học hiện đại Việt Nam I, 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 17, 1721LITR1462, Văn học Phương Đông I, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 18, 1721LITR1462, Văn học Phương Đông I, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 1811EDUC1320, Công tác Đảng và đoàn thể trong trường học, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 1811EDUC1320, Công tác Đảng và đoàn thể trong trường học, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 3, 1811LITR1451, Dẫn luận ngôn ngữ học, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 4, 1811LITR1451, Dẫn luận ngôn ngữ học, 2, Tự Chọn, 1.50, D+, ,Chi tiết
+ 5, 1811LITR1456, Lý luận văn học I, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 6, 1811LITR1456, Lý luận văn học I, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 7, 1811EDUC1068, Phát triển chương trình đào tạo, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 8, 1811EDUC1068, Phát triển chương trình đào tạo, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 9, 1811EDUC1361, Quản lý sự thay đổi trong giáo dục, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 10, 1811EDUC1361, Quản lý sự thay đổi trong giáo dục, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 11, 1811EDUC1321, Quản lý tài chính trong trường học, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 12, 1811EDUC1321, Quản lý tài chính trong trường học, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 13, 1811PSYC1115, Tâm lý học đào tạo trong doanh nghiệp, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 14, 1811PSYC1115, Tâm lý học đào tạo trong doanh nghiệp, 2, Tự Chọn, 4.00, A, ,Chi tiết
+ 15, 1811PSYC1054, Tâm lý học học sinh trung học, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 16, 1811PSYC1054, Tâm lý học học sinh trung học, 3, Tự Chọn, 3.00, B, ,Chi tiết
+ 17, 1811PSYC1032, Tham vấn học đường, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 18, 1811PSYC1032, Tham vấn học đường, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 19, 1811ENGL2403, Tiếng Anh học phần III, 3, Tự Chọn, 1.50, D+, ,Chi tiết
+ 20, 1811ENGL2403, Tiếng Anh học phần III, 3, Tự Chọn, 1.50, D+, ,Chi tiết
+ 21, 1811LITR1464, Văn học phương Tây I, 3, Bắt Buộc, 2.00, C, ,Chi tiết
+ 22, 1811LITR1464, Văn học phương Tây I, 3, Tự Chọn, 2.00, C, ,Chi tiết
+ 23, 1811LITR1478, Yếu tố văn hóa dân gian trong Truyện Kiều của Nguyễn Du và thơ Nôm của Hồ Xuân Hương, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 24, 1811LITR1478, Yếu tố văn hóa dân gian trong Truyện Kiều của Nguyễn Du và thơ Nôm của Hồ Xuân Hương, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 1821EDUC1359, Thực tập quản lý giáo dục, 6, Bắt Buộc, 4.00, A, ,Chi tiết
+ 2, 1821EDUC1359, Thực tập quản lý giáo dục, 6, Tự Chọn, 4.00, A, ,Chi tiết
+ 1, 1911PSYC1009, Giao tiếp sư phạm, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 2, 1911PSYC1009, Giao tiếp sư phạm, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 3, 1911LITR1401, Hán Nôm I, 3, Bắt Buộc, 0.00, F, ,Chi tiết
+ 4, 1911LITR1401, Hán Nôm I, 3, Tự Chọn, 0.00, F, ,Chi tiết
+ 5, 1911LITR1493, Hoạt động trải nghiệm sáng tạo trong dạy học Ngữ văn, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 1911LITR1493, Hoạt động trải nghiệm sáng tạo trong dạy học Ngữ văn, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 7, 1911LITR1492, Lý luận và phương pháp dạy học tạo lập văn bản ở trường trung học, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 8, 1911LITR1492, Lý luận và phương pháp dạy học tạo lập văn bản ở trường trung học, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 9, 1911LITR1470, Một số vấn đề lý luận văn học đương đại, 2, Tự Chọn, 0.50, F+, ,Chi tiết
+ 10, 1911LITR1470, Một số vấn đề lý luận văn học đương đại, 2, Tự Chọn, 0.50, F+, ,Chi tiết
+ 11, 1911LITR1469, Mỹ học, 2, Tự Chọn, , , ,Chi tiết
+ 12, 1911LITR1469, Mỹ học, 2, Tự Chọn, , , ,Chi tiết
+ 13, 1911LITR1473, Nghệ thuật học, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 14, 1911LITR1473, Nghệ thuật học, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 15, 1911TTTH1001, Tin học căn bản, 3, Bắt Buộc, 1.00, D, ,Chi tiết
+ 16, 1911TTTH1001, Tin học căn bản, 3, Tự Chọn, 1.00, D, ,Chi tiết
+ 17, 1911EDUC1348, Tổ chức hoạt động giáo dục ở trường phổ thông, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 18, 1911EDUC1348, Tổ chức hoạt động giáo dục ở trường phổ thông, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 19, 1911LITR1461, Văn học hiện đại Việt Nam II, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 20, 1911LITR1461, Văn học hiện đại Việt Nam II, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 21, 1911LITR1463, Văn học phương Đông II, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 22, 1911LITR1463, Văn học phương Đông II, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 1, 2011PSYC1491, Kỹ năng quản lý cảm xúc và giải quyết mâu thuẫn của giáo viên, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 2, 2011PSYC1491, Kỹ năng quản lý cảm xúc và giải quyết mâu thuẫn của giáo viên, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 3, 2011LITR1469, Mỹ học, 2, Tự Chọn, 0.50, F+, ,Chi tiết
+ 4, 2011LITR1469, Mỹ học, 2, Tự Chọn, 0.50, F+, ,Chi tiết
+ 5, 2011LITR1455, Phong cách học tiếng Việt, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 6, 2011LITR1455, Phong cách học tiếng Việt, 2, Tự Chọn, 2.00, C, ,Chi tiết
+ 7, 2011LITR1500, Quá trình đổi mới và đa dạng hóa thẩm mỹ văn học Quốc ngữ Việt Nam, 2, Tự Chọn, , , ,Chi tiết
+ 8, 2011LITR1500, Quá trình đổi mới và đa dạng hóa thẩm mỹ văn học Quốc ngữ Việt Nam, 2, Tự Chọn, , , ,Chi tiết
+ 9, 2011LITR1499, Thể loại truyện thơ Việt Nam thời trung đại, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 10, 2011LITR1499, Thể loại truyện thơ Việt Nam thời trung đại, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 1, 2221LITR1496, Đánh giá năng lực tiếp nhận và tạo lập văn bản của học sinh trung học, 2, Tự Chọn, , , ,Chi tiết
+ 2, 2221LITR1496, Đánh giá năng lực tiếp nhận và tạo lập văn bản của học sinh trung học, 2, Tự Chọn, , , ,Chi tiết
+ 3, 2221LITR1402, Hán Nôm II, 2, Bắt Buộc, , , ,Chi tiết
+ 4, 2221LITR1402, Hán Nôm II, 2, Tự Chọn, , , ,Chi tiết
+ 5, 2221LITR1490, Lý luận chung về phương pháp dạy học Ngữ văn, 3, Bắt Buộc, , , ,Chi tiết
+ 6, 2221LITR1490, Lý luận chung về phương pháp dạy học Ngữ văn, 3, Tự Chọn, , , ,Chi tiết
+ 7, 2221LITR1476, Tiếp cận tác phẩm văn học dân gian, 2, Tự Chọn, , , ,Chi tiết
+ 8, 2221LITR1476, Tiếp cận tác phẩm văn học dân gian, 2, Tự Chọn, , , ,Chi tiết
+ 9, 2221LITR1495, Tổ chức hoạt động dạy học đọc hiểu bằng hệ thống câu hỏi, 2, Tự Chọn, , , ,Chi tiết
+ 10, 2221LITR1495, Tổ chức hoạt động dạy học đọc hiểu bằng hệ thống câu hỏi, 2, Tự Chọn, , , ,Chi tiết
+ 11, 2221LITR1477, Type và motif trong truyện dân gian, 2, Tự Chọn, , , ,Chi tiết
+ 12, 2221LITR1477, Type và motif trong truyện dân gian, 2, Tự Chọn, , , ,Chi tiết
+ 13, 2221LITR1465, Văn học phương Tây II, 2, Bắt Buộc, , , ,Chi tiết
+ 14, 2221LITR1465, Văn học phương Tây II, 2, Tự Chọn, , , ,Chi tiết
+ 15, 2221LITR1459, Văn học trung đại Việt Nam III và IV, 3, Bắt Buộc, , , ,Chi tiết
+ 16, 2221LITR1459, Văn học trung đại Việt Nam III và IV, 3, Tự Chọn, , , ,Chi tiết

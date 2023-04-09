@@ -1,0 +1,55 @@
+STT,Mã học phần,Tên học phần,Tín chỉ,Loại môn học,Điểm,Điểm chữ,Kết quả,Chi tiết
+ 1, 2011EDUC1302, Đại cương về khoa học quản lý, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 2, 2011PHYL2401, Giáo dục thể chất 1 (Thể dục - Điền kinh), 1, Tự Chọn, 4.00, A, ,Chi tiết
+ 3, 2011EDUC1404, Hệ thống giáo dục quốc dân Việt Nam và các nước trên thế giới, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 2011EDUC1401, Logic học đại cương, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 5, 2011POLI1903, Pháp luật đại cương, 2, Bắt Buộc, 1.00, D, ,Chi tiết
+ 6, 2011PSYC1001, Tâm lý học đại cương, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 7, 2011TTTH1001, Tin học căn bản, 3, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 8, 2011POLI2001, Triết học Mác – Lênin, 3, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 2021POLI2003, Chủ nghĩa xã hội khoa học, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 2021EDUC1003, Giáo dục học đại cương, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 3, 2021EDUC1314, Hệ thống thông tin trong quản lý giáo dục, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 4, 2021POLI2002, Kinh tế chính trị học Mác - Lênin, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 5, 2021POLI2004, Lịch sử Đảng cộng sản Việt Nam, 2, Bắt Buộc, , , ,Chi tiết
+ 6, 2021EDUC1324, Phương pháp học tập tích cực, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 7, 2021EDUC1304, Phương Pháp nghiên cứu khoa học giáo dục, 2, Bắt Buộc, 0.50, F+, ,Chi tiết
+ 8, 2021DOMS1009, Trang điểm căn bản, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 1, 2111EDUC1306, Chiến lược phát triển giáo dục, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 2, 2111EDUC1402, Cơ sở Tâm lý học của quản lý giáo dục, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 3, 2111EDUC1336, Giáo dục gia đình, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 4, 2111EDUC1303, Giáo dục giá trị, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 5, 2111EDUC1501, Giao tiếp trong quản lý giáo dục, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 6, 2111EDUC1309, Khoa học quản lý giáo dục, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 7, 2111EDUC1403, Thống kê trong nghiên cứu khoa học xã hội, 2, Tự Chọn, 3.50, B+, ,Chi tiết
+ 8, 2111EDUC1348, Tổ chức hoạt động giáo dục ở trường phổ thông, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 9, 2111POLI2005, Tư tưởng Hồ Chí Minh, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 1, 2121EDUC1311, Cơ sở pháp lý của quản lý giáo dục, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 2, 2121EDUC1338, Giáo dục hướng nghiệp, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 3, 2121PHYL2410, Giáo dục Thể chất 2 - Khiêu vũ thể thao cơ bản, 1, Tự Chọn, 1.00, D, ,Chi tiết
+ 4, 2121EDUC1409, Kiểm định chất lượng giáo dục, 2, Tự Chọn, 2.50, C+, ,Chi tiết
+ 5, 2121EDUC1349, Kiểm tra và đánh giá trong giáo dục, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 6, 2121EDUC1305, Lịch sử các tư tưởng giáo dục, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 7, 2121POLI2004, Lịch sử Đảng cộng sản Việt Nam, 2, Bắt Buộc, 1.50, D+, ,Chi tiết
+ 8, 2121EDUC1405," Nghiệp vụ công tác học sinh, sinh viên trong cơ sở giáo dục", 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 9, 2121EDUC1304, Phương Pháp nghiên cứu khoa học giáo dục, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 10, 2121EDUC1414, Rèn luyện NV QLGD thường xuyên, 2, Bắt Buộc, 3.00, B, ,Chi tiết
+ 11, 2121PSYC1400, Tâm lý học giáo dục, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 12, 2121ENGL2401, Tiếng Anh học phần I, 4, Tự Chọn, 0.50, F+, ,Chi tiết
+ 13, 2121EDUC1411," Tổ chức, quản lý cơ sở giáo dục ngoài công lập", 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 14, 2121EDUC1408, Ứng dụng Công nghệ thông tin trong Quản lý giáo dục, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 1, 2211MILI2702, Công tác quốc phòng và an ninh, 2, Bắt Buộc, 2.00, Ð, ,Chi tiết
+ 2, 2211EDUC1326, Giáo dục kỹ năng sống, 2, Tự Chọn, 3.00, B, ,Chi tiết
+ 3, 2211EDUC1330, Hoạt động nhóm và kỹ năng truyền thông, 2, Bắt Buộc, 3.50, B+, ,Chi tiết
+ 4, 2211EDUC1313, Nhân cách và lao động của người cán bộ quản lý giáo dục, 2, Bắt Buộc, 2.00, C, ,Chi tiết
+ 5, 2211EDUC1315, Quản lý hoạt động dạy học, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 6, 2211EDUC1407, Quản lý hoạt động giáo dục ngoài giờ lên lớp, 2, Bắt Buộc, 2.50, C+, ,Chi tiết
+ 1, 2221EDUC1320, Công tác Đảng và đoàn thể trong trường học, 2, Bắt Buộc, , , ,Chi tiết
+ 2, 2221MILI2704, Kỹ thuật chiến đấu bộ binh và chiến thuật, 4, Bắt Buộc, , , ,Chi tiết
+ 3, 2221EDUC1351, Phát triển chương trình giáo dục, 2, Bắt Buộc, , , ,Chi tiết
+ 4, 2221EDUC1318, Quản lý cơ sở vật chất trường học, 2, Bắt Buộc, , , ,Chi tiết
+ 5, 2221EDUC1319, Quản lý hoạt động phối hợp các lực lượng giáo dục, 2, Bắt Buộc, , , ,Chi tiết
+ 6, 2221EDUC1352, Quản lý người học trong nhà trường, 2, Bắt Buộc, , , ,Chi tiết
+ 7, 2221EDUC1317, Quản lý nhân sự trong giáo dục, 2, Bắt Buộc, , , ,Chi tiết
+ 8, 2221EDUC1099, Rèn luyện nghiệp vụ quản lý giáo dục, 2, Bắt Buộc, , , ,Chi tiết
+ 9, 2221EDUC1356, Xử lý tình huống trong quản lý giáo dục, 2, Bắt Buộc, , , ,Chi tiết
